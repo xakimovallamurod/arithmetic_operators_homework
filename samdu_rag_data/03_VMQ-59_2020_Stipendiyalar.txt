@@ -1,7 +1,7 @@
 HUJJAT: Oliy taʼlim muassasalari talabalariga toʻlanadigan stipendiyalar miqdorlarini belgilash hamda stipendiyalar tayinlash va toʻlash tartibini takomillashtirish chora-tadbirlari toʻgʻrisida
 TURI: Oʻzbekiston Respublikasi Vazirlar Mahkamasining qarori
 RAQAMI VA SANASI: 59-son, 2020-yil 31-yanvar (kuchga kirgan: 01.02.2020)
-HOLATI: Amalda. DIQQAT: ushbu matn lex.uz dagi 2025-yil 27-avgust holatidagi tahrir. Undan keyin ham oʻzgartirishlar kiritilgan (04.11.2025, 02.02.2026, 22.05.2026, 03.07.2026), shu sababli stipendiya miqdorlari va ayrim bandlar eskirgan boʻlishi mumkin — amaldagi tahrirni lex.uz dan tekshiring.
+HOLATI: Amalda (lex.uz dagi amaldagi tahrir, 2026-yil 3-iyulgacha kiritilgan oʻzgartishlar bilan)
 MANBA: https://lex.uz/docs/-4725554
 
 OʻZBEKISTON RESPUBLIKASI VAZIRLAR MAHKAMASINING QARORI. OLIY TAʼLIM MUASSASALARI TALABALARIGA TOʻLANADIGAN STIPENDIYALAR MIQDORLARINI BELGILASH HAMDA STIPENDIYALAR TAYINLASH VA TOʻLASH TARTIBINI TAKOMILLASHTIRISH CHORA-TADBIRLARI TOʻGʻRISIDA
@@ -44,9 +44,11 @@ oliy taʼlim muassasalarida davlat granti asosida taʼlim olayotgan “aʼlo” 
 
 2019/2020 oʻquv yilidan boshlab toʻlov-kontrakt asosida taʼlim oluvchi nomli davlat stipendiyalari sohiblari, 1 va 2-guruh nogironligi boʻlgan, toʻliq davlat taʼminotida boʻlgan yetim bolalar va ota-ona qaramogʻidan mahrum boʻlgan bolalar sirasiga kiruvchi talabalarga stipendiya toʻlovlari Oʻzbekiston Respublikasining respublika budjeti mablagʻlari hisobiga amalga oshirilishini inobatga olib, ularga tegishli oʻquv yili uchun kontrakt qiymati miqdorini stipendiyasiz shaklda toʻlash imkoniyati yaratiladi;
 
+stipendiyalar 2027-yil 1-yanvarga qadar naqd pul shaklida yoki bank kartalari, shu jumladan, ijtimoiy karta orqali, 2027-yil 1-yanvardan boshlab esa faqat ijtimoiy karta orqali toʻlanadi;
+
 respublika oliy taʼlim muassasalari talabalari boʻlgan Oʻzbekiston Respublikasida yashash guvohnomasiga yoxud investitsiya vizasiga ega boʻlgan xorijiy investorlar, shuningdek, ularning oila aʼzolari oliy taʼlim muassasalarida taʼlim olayotganda Oʻzbekiston Respublikasi fuqarolari uchun nazarda tutilgan shartlarda stipendiya olishga haqlidirlar.
 
-5. Oʻzbekiston Respublikasi Prezidentining davlat stipendiyasi hamda Beruniy, Ibn Sino, Navoiy, Ulugʻbek, Imom al-Buxoriy, Bobur, Pahlavon Mahmud, Toʻlepbergen Qaipbergenov, Ibroyim Yusupov va Islom Karimov nomli davlat stipendiyalarini oluvchi talabalarga stipendiyalar tayinlashda Vazirlar Mahkamasining “Oʻzbekiston iqtidorli yoshlarini taqdirlash va moddiy ragʻbatlantirish toʻgʻrisida” 2008-yil 13-oktabrdagi 226-son qarori bilan belgilangan tartiblar saqlab qolinsin.
+5. Oʻzbekiston Respublikasi Prezidentining davlat stipendiyasi hamda Beruniy, Ibn Sino, Navoiy, Ulugʻbek, Imom al-Buxoriy, Bobur, Pahlavon Mahmud, Toʻlepbergen Qaipbergenov, Ibroyim Yusupov, Abdulla Avloniy va Islom Karimov nomli davlat stipendiyalarini oluvchi talabalarga stipendiyalar tayinlashda Vazirlar Mahkamasining “Oʻzbekiston iqtidorli yoshlarini taqdirlash va moddiy ragʻbatlantirish toʻgʻrisida” 2008-yil 13-oktabrdagi 226-son qarori bilan belgilangan tartiblar saqlab qolinsin.
 
 Bunda, 2019/2020 oʻquv yilidan boshlab nomli davlat stipendiyalarini toʻlash bilan bogʻliq xarajatlar talabalarning davlat granti yoki toʻlov-kontrakt asosida taʼlim olayotganidan qatʼi nazar Oʻzbekiston Respublikasi Davlat budjeti mablagʻlari hisobiga qoplanishi inobatga olinsin.
 
@@ -118,21 +120,29 @@ Stipendiyali toʻlov-kontrakt tarkibiga bazaviy stipendiya miqdorining yillik su
 
 4-bob. Nomli davlat stipendiyalarini tayinlash va toʻlash tartibi
 
-10. Oʻzbekiston Respublikasi Prezidentining davlat stipendiyasi hamda Beruniy, Ibn Sino, Navoiy, Ulugʻbek, Imom al-Buxoriy, Bobur, Pahlavon Mahmud, Toʻlepbergen Qaipbergenov, Ibroyim Yusupov va Islom Karimov nomli davlat stipendiyalarini oluvchi talabalarga stipendiyalar tayinlash Vazirlar Mahkamasining “Oʻzbekiston iqtidorli yoshlarini taqdirlash va moddiy ragʻbatlantirish toʻgʻrisida” 2008-yil 13-oktabrdagi 226-son qarori bilan tasdiqlangan Magistratura bosqichi talabalari uchun Oʻzbekiston Respublikasi Prezidentining davlat stipendiyalari va ularni tayinlash tartibi toʻgʻrisidagi nizom hamda Bakalavriat bosqichi talabalari uchun Oʻzbekiston Respublikasi Prezidenti va nomli davlat stipendiyalari hamda ularni tayinlash tartibi toʻgʻrisidagi nizomda belgilangan tartiblar asosida amalga oshiriladi.
+10. Oʻzbekiston Respublikasi Prezidentining davlat stipendiyasi hamda Beruniy, Ibn Sino, Navoiy, Ulugʻbek, Imom al-Buxoriy, Bobur, Pahlavon Mahmud, Toʻlepbergen Qaipbergenov, Ibroyim Yusupov, Abdulla Avloniy va Islom Karimov nomli davlat stipendiyalarini oluvchi talabalarga stipendiyalar tayinlash Vazirlar Mahkamasining “Oʻzbekiston iqtidorli yoshlarini taqdirlash va moddiy ragʻbatlantirish toʻgʻrisida” 2008-yil 13-oktabrdagi 226-son qarori bilan tasdiqlangan Magistratura bosqichi talabalari uchun Oʻzbekiston Respublikasi Prezidentining davlat stipendiyalari va ularni tayinlash tartibi toʻgʻrisidagi nizom hamda Bakalavriat bosqichi talabalari uchun Oʻzbekiston Respublikasi Prezidenti va nomli davlat stipendiyalari hamda ularni tayinlash tartibi toʻgʻrisidagi nizomda belgilangan tartiblar asosida amalga oshiriladi.
 
-Ushbu Nizom Kamoliddin Behzod nomidagi va “Oliy Bosh qoʻmondon” davlat stipendiyalarini oluvchi talaba va kursantlarga stipendiyalar tayinlash tartibiga nisbatan tatbiq etilmaydi.
+Ushbu Nizom Kamoliddin Behzod nomidagi, Botir Zokirov nomidagi va “Oliy Bosh qoʻmondon” davlat stipendiyalarini oluvchi talaba va kursantlarga stipendiyalar tayinlash tartibiga nisbatan tatbiq etilmaydi.
 
 Bunda, Oʻzbekiston Respublikasi Prezidentining hamda nomli davlat stipendiyalari sohiblariga talabalar uchun belgilanadigan stipendiyalar tayinlanmaydi.
 
 10¹. Davlat oliy taʼlim muassasalari bakalavriatining kunduzgi taʼlim shakliga kirish imtihonlarida (test sinovlari, kasbiy (ijodiy) imtihon, yozma imtihon) eng yuqori ball toʻplagan abituriyentlarning 200 nafari Oʻzbekiston Respublikasi Davlat budjeti mablagʻlari hisobidan moliyalashtiriladigan Oʻzbekiston Respublikasi Prezidenti grantiga daʼvogar boʻladi va Vazirlar Mahkamasi tomonidan belgilanadigan tartibga muvofiq oʻtkazilgan tanlov natijalariga koʻra gʻolib boʻlgan ushbu toifadagi talabalarga ikkinchi kursning oʻquv yili boshidan Oʻzbekiston Respublikasi Prezidenti stipendiyasi tayinlanadi va toʻlanadi.
 
-10². “Aʼlo” baholarga oʻqiyotgan, ijtimoiy himoyaga muhtoj boʻlgan, oliy taʼlim muassasalari bakalavriatining kunduzgi taʼlim shaklida davlat granti yoki toʻlov-kontrakt asosida taʼlim olayotgan talaba-qizlar uchun oliy taʼlim muassasalarining Talabalarni ragʻbatlantirish jamgʻarmasi mablagʻlari hisobidan moliyalashtiriladigan Qizlar uchun maxsus stipendiya (keyingi oʻrinlarda – Maxsus stipendiya) beriladi.
+10². “Aʼlo” baholarga oʻqiyotgan, ijtimoiy himoyaga muhtoj boʻlgan, oliy taʼlim muassasalari bakalavriatining kunduzgi taʼlim shaklida davlat granti yoki toʻlov-kontrakt asosida taʼlim olayotgan Ijtimoiy reyestrga kiritilgan oilalarning talaba-qizlari (keyingi oʻrinlarda — talaba-qizlar) oliy taʼlim muassasalarining Talabalarni ragʻbatlantirish jamgʻarmasi mablagʻlari hisobidan moliyalashtiriladigan Qizlar uchun maxsus stipendiya (keyingi oʻrinlarda – Maxsus stipendiya) beriladi.
 
-Maxsus stipendiya oʻquv semestri yakuni natijalariga koʻra barcha fanlar boʻyicha oʻzlashtirish koʻrsatkichi faqat “aʼlo” baho boʻlgan hamda “Ijtimoiy himoya yagona reyestri” axborot tizimi (keyingi oʻrinlarda — “Yagona reyestr” AT) orqali kam taʼminlangan oila deb eʼtirof etilgan oiladan boʻlgan talaba-qizlarga (keyingi oʻrinlarda — talaba-qizlar) tayinlanadi va toʻlanadi.
+Maxsus stipendiya oʻquv semestri yakuni natijalariga koʻra barcha fanlar boʻyicha oʻzlashtirish koʻrsatkichi faqat “aʼlo” baho boʻlgan hamda Ijtimoiy reyestriga kiritilgan oilalarning talaba-qizlariga (keyingi oʻrinlarda — talaba-qizlar) tayinlanadi va toʻlanadi.
 
-Maxsus stipendiyani toʻlash toʻgʻrisidagi qaror “Yagona reyestr” AT orqali kam taʼminlangan deb eʼtirof etilganligi toʻgʻrisidagi maʼlumotnoma asosida oliy taʼlim muassasasi kengashi tomonidan tasdiqlanadi va oliy taʼlim muassasasi rektori (filial direktori) buyrugʻi asosida rasmiylashtiriladi.
+Maxsus stipendiyani toʻlash toʻgʻrisidagi qaror Ijtimoiy reyestrga kiritilganligi toʻgʻrisidagi maʼlumotnoma asosida oliy taʼlim muassasasi kengashi tomonidan tasdiqlanadi va oliy taʼlim muassasasi rektori (filial direktori) buyrugʻi asosida rasmiylashtiriladi.
 
-Maxsus stipendiya talaba-qizlarga oliy taʼlim muassasalarida umumiy shartlarda beriladigan stipendiya saqlab qolingan holda stipendiyaning bazaviy miqdorida qoʻshimcha tarzda oyma-oy toʻlanadi.
+Maxsus stipendiya talaba-qizlarga oliy taʼlim muassasalarida umumiy shartlarda beriladigan stipendiya saqlab qolingan holda quyidagi miqdorlarga qoʻshimcha tarzda oyma-oy tayinlanadi va toʻlanadi:
+
+Ijtimoiy reyestrning “davlat taʼminotidagi oila” toifasiga kiritilgan oilaning aʼzosi boʻlgan talaba-qizlarga maxsus stipendiya bazaviy stipendiyaning ikki baravari miqdorida;
+
+Ijtimoiy reyestrning “kambagʻal oila” toifasiga kiritilgan oilaning aʼzosi boʻlgan talaba-qizlarga maxsus stipendiya bazaviy stipendiya miqdorida;
+
+Ijtimoiy reyestrning “kambagʻallik chegarasidagi oila” toifasiga kiritilgan oilaning aʼzosi boʻlgan talaba-qizlarga maxsus stipendiya Ijtimoiy reyestrning “kambagʻal oila” toifasiga kiritilgan oilaning talaba-qizlari uchun belgilangan miqdorlarda.
+
+Talaba-qizlarga maxsus stipendiya mazkur bandning beshinchi — yettinchi xatboshilarida nazarda tutilgan miqdordagi pul mablagʻlarini naqd pulsiz shaklda ularning ijtimoiy kartalariga oʻtkazish yoʻli bilan toʻlanadi.
 
 Maxsus stipendiyani toʻlash oʻquv semestri natijalariga koʻra barcha fanlar boʻyicha uning oʻzlashtirish koʻrsatkichi faqat “aʼlo” baho boʻlgandagina davom ettiriladi.
 
@@ -140,7 +150,7 @@ Maxsus stipendiyani toʻlash quyidagi hollarda kelgusi oʻquv semestridan boshla
 
 talaba-qizlarning oʻquv semestri natijalari boʻyicha barcha fanlardan oʻzlashtirish koʻrsatkichlari “aʼlo” boʻlmaganda;
 
-kam taʼminlangan deb eʼtirof etilganligi toʻgʻrisidagi maʼlumotnoma amal qilishining (12 oylik) muddati tugaganda.
+maxsus stipendiya toʻlanayotgan talaba-qizning oilasi Ijtimoiy reyestrdan chiqarilganda.
 
 11. Oʻzbekiston Respublikasi Prezidentining hamda nomli davlat stipendiyalarini toʻlash bilan bogʻliq xarajatlar talabalarning davlat granti yoki toʻlov-kontrakt asosida taʼlim olayotganidan qatʼi nazar Oʻzbekiston Respublikasining respublika budjeti mablagʻlari hisobiga qoplanadi va stipendiya sohiblariga belgilangan miqdorlarda stipendiya tayinlanadi va toʻlanadi.
 
@@ -156,7 +166,7 @@ kam taʼminlangan deb eʼtirof etilganligi toʻgʻrisidagi maʼlumotnoma amal qi
 
 15. Avvalgi oʻquv semestri yakuni boʻyicha fanlardan oʻzlashtirish koʻrsatkichlaridan qatʼi nazar toʻliq davlat taʼminotida boʻlgan oʻzlashtirayotgan yetim bolalar va ota-ona qaramogʻidan mahrum boʻlgan bolalar sirasiga kiruvchi talabalarga bazaviy stipendiya miqdorida stipendiya tayinlanadi va toʻlanadi.
 
-Bunda, toʻliq davlat taʼminotida boʻlgan yetim bolalar, yetim bolalar va ota-ona qaramogʻidan mahrum boʻlgan bolalar sirasiga kiruvchi talabalarga Talabalarni ragʻbatlantirish jamgʻarmasi mablagʻlari hisobidan stipendiyaning bazaviy miqdoriga nisbatan 50 foiz yuqori (oshirilgan) miqdorlarda stipendiya tayinlanadi va toʻlanadi.
+Bunda oliy taʼlim muassasalaridagi bakalavriat va magistratura bosqichida taʼlim olayotgan toʻliq davlat taʼminotida boʻlgan yetim bolalar va ota-ona qaramogʻidan mahrum boʻlgan bolalar sirasiga kiruvchi talabalarga, ularning taʼlim olish turi (grant yoki toʻlov-kontrakt asosida) va oʻzlashtirish koʻrsatkichidan qatʼi nazar, Talabalarni ragʻbatlantirish jamgʻarmasi mablagʻlari hisobidan stipendiyaning bazaviy miqdoriga nisbatan 50 foiz yuqori (oshirilgan) miqdorlarda stipendiya tayinlanadi va toʻlanadi.
 
 7-bob. Talabalarni ragʻbatlantirish jamgʻarmasini shakllantirish va jamgʻarma mablagʻlari hisobiga talabalarga moddiy ragʻbatlantirishlarni tayinlash va toʻlash tartibi
 
@@ -174,25 +184,25 @@ tegishli moliya yilida toʻlov-kontrakt boʻyicha rejalashtirilgan tushumlarning
 
 18. Oliy taʼlim muassasalarida toʻlov-kontrakt asosida taʼlim olayotgan (stipendiyali yoki stipendiyasiz shaklda ekanligidan qatʼi nazar), oʻquv semestri yakuni boʻyicha fanlardan oʻzlashtirish koʻrsatkichlari “aʼlo” baho (reyting koʻrsatkichi 86 ball va undan yuqori) boʻlgan talabalar stipendiyaning bazaviy miqdoriga nisbatan 20 foiz miqdorida Jamgʻarma hisobiga ragʻbatlantiriladi.
 
-19. Oʻquv semestri yakuni boʻyicha fanlarni oʻzlashtirayotgan, alohida qobiliyat va iqtidor egasi boʻlgan, jamoat ishlarida faol, shuningdek, ijtimoiy himoyaga muhtoj davlat granti va toʻlov-kontrakt asosida taʼlim olayotgan barcha talabalar belgilangan stipendiyalarga nisbatan qoʻshimcha ravishda Jamgʻarma mablagʻlari hisobiga 50 foizgacha miqdorda ragʻbatlantirilishi mumkin.
+19. Oʻquv semestri yakuni boʻyicha fanlarni oʻzlashtirayotgan, respublika va xalqaro miqyosdagi ilmiy jurnallarda yakka mualliflikda maqolalar chop etganligi, yaratgan innovatsion yechimlari va ishlanmalari turli grantlarga nomzod sifatida taqdim etilganligi va unga loyiq topilganligi, intellektual mulk obyektlari, jumladan, sanoat mulki obyektlarini yaratishdagi ishtiroki va taklif qilayotgan (ishtirok etayotgan) startap loyihalari uchun, jamoat ishlarida faol (xalqaro va respublika miqyosidagi yakka va jamoaviy tartibda oʻtkazilgan sport musobaqalari, koʻrik-tanlovlar, fan olimpiadalaridagi ishtiroki va sovrinli oʻrinlardan birini egallaganligi uchun), shuningdek, ijtimoiy himoyaga muhtoj davlat granti va toʻlov-kontrakt asosida taʼlim olayotgan barcha talabalar belgilangan stipendiyalarga nisbatan qoʻshimcha ravishda Jamgʻarma mablagʻlari hisobidan 50 foizgacha miqdorda ragʻbatlantirilishi mumkin.
 
 Bunda, oliy taʼlim muassasalarida stipendiyasiz toʻlov-kontrakt asosida taʼlim olayotgan va oʻquv semestri yakuni boʻyicha fanlarni oʻzlashtirayotgan talabalar qoʻshimcha ravishda Jamgʻarma mablagʻlari hisobiga bazaviy stipendiyaga nisbatan 50 foizgacha miqdorda ragʻbatlantirilishi mumkin.
 
-19¹. Toʻliq davlat taʼminotida boʻlgan yetim bolalar, yetim bolalar va ota-ona qaramogʻidan mahrum boʻlgan bolalar sirasiga kiruvchi talabalarga Talabalarni ragʻbatlantirish jamgʻarmasi mablagʻlari hisobidan stipendiyaning bazaviy miqdoriga nisbatan 50 foiz yuqori (oshirilgan) miqdorlarda stipendiya tayinlanadi va toʻlanadi.
+(19¹-band oʻz kuchini yoʻqotgan.)
 
-20. Jamgʻarma mablagʻlari hisobiga oliy taʼlim muassasasida davlat granti va toʻlov-kontrakt asosida taʼlim olayotgan alohida iqtidorga ega, xalqaro, respublika va oliy taʼlim miqyosida oʻtkazilgan fan olimpiadalari va sport musobaqalari gʻoliblari, shuningdek, oliy taʼlim muassasasi kengashi tomonidan belgilangan mezonlarga muvofiq alohida hollarda (kasalligi yoki oila aʼzolarining vafoti kabi) talabalarga bazaviy stipendiyaga nisbatan 10 baravargacha miqdorda boʻlgan bir martalik ragʻbatlantirish yoki moddiy yordam toʻlovi berilishi mumkin.
+20. Jamgʻarma mablagʻlari hisobidan oliy taʼlim muassasasida davlat granti va toʻlov-kontrakt asosida taʼlim olayotgan xalqaro, respublika va oliy taʼlim miqyosida oʻtkazilgan fan olimpiadalari va sport musobaqalari gʻoliblari, shuningdek, oliy taʼlim muassasasi kengashi tomonidan belgilangan mezonlarga muvofiq (ogʻir kasalligi sababli belgilangan shakldagi tibbiy maʼlumotnoma yoki yaqin qarindoshlarining vafoti kabi) talabalarga bazaviy stipendiyaga nisbatan 10 baravargacha miqdorda boʻlgan bir martalik ragʻbatlantirish yoki moddiy yordam toʻlovi berilishi mumkin.
 
 Bunda, stipendiya toʻlovlariga ajratilgan Oʻzbekiston Respublikasining respublika budjeti mablagʻlarining hisobot davri yakuni boʻyicha boʻshab qolgan qismini talabalarni qoʻshimcha ravishda moddiy ragʻbatlantirishga yoʻnaltirishga ruxsat beriladi.
 
 20¹. Oliy taʼlim muassasalaridagi Oʻzbekiston yoshlar ittifoqining boshlangʻich tashkilot yetakchisi boʻlgan bakalavr va magistratura bosqichida taʼlim olayotgan talabalarga, ularning taʼlim olish turi (grant yoki toʻlov-shartnoma asosida) va oʻzlashtirish koʻrsatkichidan qatʼi nazar, Jamgʻarma mablagʻlari hisobidan bazaviy stipendiyaning besh baravari miqdorida har oylik qoʻshimcha haq toʻlanadi.
 
-20². Oliy taʼlim muassasalaridagi bakalavr va magistratura bosqichida taʼlim olayotgan toʻliq davlat taʼminotida boʻlgan yetim bolalar va ota-ona qaramogʻidan mahrum boʻlgan bolalar sirasiga kiruvchi talabalarga, ularning taʼlim olish turi (grant yoki toʻlov-shartnoma asosida) va oʻzlashtirish koʻrsatkichidan qatʼi nazar, Jamgʻarma mablagʻlari hisobidan bazaviy stipendiyaning 50 foizi miqdorida har oylik qoʻshimcha haq toʻlanadi.
+20². Jamgʻarma mablagʻlari mazkur Nizomning 15-bandi ikkinchi xatboshisida nazarda tutilgan maqsadlar uchun ham sarflanadi.
 
 8-bob. Talabalarga stipendiya tayinlash va toʻlashni amalga oshiruvchi stipendiya komissiyalari ishini tashkil etish
 
 21. Stipendiya toʻlash uchun stipendiya komissiyasi tavsiya etgan talabalarning roʻyxatlari oliy taʼlim muassasasi rektorining (filial direktorining) yoki uning vazifalarini bajaruvchi shaxsning buyrugʻi bilan tasdiqlanadi.
 
-22. Oʻzlashtirayotgan talabalarga stipendiya tayinlash oʻquv yilida ikki marotaba oʻtkaziladi va stipendiya avvalgi semestr yakuniy nazorat natijalari eʼlon qilinganidan soʻng, har bir oʻquv semestri oyining birinchi kunidan boshlab tayinlanadi.
+22. Oʻzlashtirayotgan talabalarga stipendiya tayinlash oʻquv yilida ikki marotaba oʻtkaziladi va stipendiya avvalgi semestrlar yakuniy nazorat natijalari eʼlon qilinganidan soʻng, har bir oʻquv semestri oyining birinchi kunidan boshlab tayinlanadi.
 
 23. Davlat granti asosida taʼlim olayotgan, oʻquv semestri uchun oʻzlashtirish natijalari boʻyicha uzrsiz sabablarga koʻra akademik qarzi (bir yoki undan ortiq fanlar boʻyicha 55 foizdan kam reytingga) boʻlgan oliy taʼlim muassasalarining talabalari keyingi oʻquv semestri oyining birinchi kunidan boshlab stipendiya olish huquqidan mahrum qilinadi.
 
@@ -238,7 +248,7 @@ OLIY TAʼLIM MUASSASALARI TALABALARI UCHUN STIPENDIYALARNING BELGILANGAN MIQDORL
 
 1. Oʻzbekiston Respublikasi Prezidentining Davlat stipendiyasi — 1 811 191 soʻm.
 
-2. Beruniy, Ibn Sino, Navoiy, Ulugʻbek, Imom al-Buxoriy, Bobur, Pahlavon Mahmud, Toʻlepbergen Qaipbergenov, Ibroyim Yusupov, Islom Karimov va Kamoliddin Behzod nomli davlat stipendiyalari — 1 207 461 soʻm.
+2. Beruniy, Ibn Sino, Navoiy, Kamoliddin Behzod, Ulugʻbek, Imom al-Buxoriy, Bobur, Pahlavon Mahmud, Toʻlepbergen Qaipbergenov, Ibroyim Yusupov, Botir Zokirov, Abdulla Avloniy va Islom Karimov nomli davlat stipendiyalari — 1 207 461 soʻm.
 
 3. Davlat granti asosida, shuningdek, bir yillik oʻqitish qiymatining stipendiyali toʻlov-kontrakt asosida taʼlim olayotgan, barcha fanlar boʻyicha faqat “aʼlo” oʻzlashtirish koʻrsatkichiga (reyting koʻrsatkichi 86 ball va undan yuqori) ega boʻlgan talabalar uchun stipendiya — 513 600 soʻm.
 
@@ -250,7 +260,7 @@ OLIY TAʼLIM MUASSASALARI TALABALARI UCHUN STIPENDIYALARNING BELGILANGAN MIQDORL
 
 7. Toʻliq davlat taʼminotida boʻlgan yetim bolalar va ota-ona qaramogʻidan mahrum boʻlgan bolalar sirasiga kiruvchi talabalar uchun stipendiya — Talabalarni ragʻbatlantirish jamgʻarmasi mablagʻlari hisobidan stipendiyaning bazaviy miqdoriga nisbatan 50 foiz yuqori (oshirilgan) miqdorda nazarda tutiladi.
 
-* Oʻzbekiston Respublikasi Prezidentining ish haqi, pensiyalar, stipendiyalar va nafaqalar miqdorini oshirish toʻgʻrisidagi farmonlari qabul qilinishi munosabati bilan oliy taʼlim muassasalari talabalari stipendiyalarining bazaviy miqdorlari oʻzgargan taqdirda, Oʻzbekiston Respublikasi oliy va oʻrta maxsus taʼlim vazirining buyrugʻi bilan oliy taʼlim muassasalari talabalari stipendiyalarining jadvalda koʻrsatilgan miqdorlariga tegishli oʻzgartirishlar kiritiladi.
+* Oʻzbekiston Respublikasi Prezidentining hujjatlari qabul qilinishi munosabati bilan oliy taʼlim muassasalari talabalari stipendiyalarining bazaviy miqdorlari oʻzgargan taqdirda, Oʻzbekiston Respublikasi oliy taʼlim, fan va innovatsiyalar vazirining buyrugʻi bilan oliy taʼlim muassasalari talabalari stipendiyalarining jadvalda koʻrsatilgan miqdorlariga tegishli oʻzgartirishlar kiritiladi.
 
 ** Talabalarni ragʻbatlantirish jamgʻarmasi mablagʻlari hisobiga amalga oshiriladi.
 
