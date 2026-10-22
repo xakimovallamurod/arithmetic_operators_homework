@@ -1,0 +1,1187 @@
+HUJJAT: Taʼlim toʻgʻrisida
+TURI: Oʻzbekiston Respublikasining Qonuni (Qonunchilik palatasi tomonidan 2020-yil 19-mayda qabul qilingan, Senat tomonidan 2020-yil 7-avgustda maʼqullangan)
+RAQAMI VA SANASI: OʻRQ-637-son, 2020-yil 23-sentabr (kuchga kirgan: 24.09.2020)
+HOLATI: Amalda (lex.uz dagi 2026-yil 12-sentabrgacha kiritilgan oʻzgartishlar bilan)
+MANBA: https://lex.uz/docs/-5013007
+
+OʻZBEKISTON RESPUBLIKASINING QONUNI. TAʼLIM TOʻGʻRISIDA
+
+1-bob. Umumiy qoidalar
+
+1-modda. Ushbu Qonunning maqsadi
+
+Ushbu Qonunning maqsadi taʼlim sohasidagi munosabatlarni tartibga solishdan iborat.
+
+2-modda. Taʼlim toʻgʻrisidagi qonunchilik
+
+Taʼlim toʻgʻrisidagi qonunchilik ushbu Qonun va boshqa qonunchilik hujjatlaridan iboratdir.
+
+Agar Oʻzbekiston Respublikasining xalqaro shartnomasida Oʻzbekiston Respublikasining taʼlim toʻgʻrisidagi qonunchiligida nazarda tutilganidan boshqacha qoidalar belgilangan boʻlsa, xalqaro shartnoma qoidalari qoʻllaniladi.
+
+3-modda. Asosiy tushunchalar
+
+Ushbu Qonunda quyidagi asosiy tushunchalar qoʻllaniladi:
+
+davlat akkreditatsiyasi — davlat taʼlim muassasalari va tashkilotlari, shuningdek nodavlat taʼlim tashkilotlari (bundan buyon matnda taʼlim tashkilotlari deb yuritiladi) faoliyatining davlat taʼlim standartlari va davlat taʼlim talablariga hamda oʻquv dasturlariga muvofiqligining davlat tomonidan eʼtirof etilishi hamda ularning bitiruvchilariga maʼlumot toʻgʻrisidagi hujjatlarni topshirish huquqining taqdim etilishidan iborat jarayon;
+
+davlat taʼlim muassasasi — davlat hokimiyati va boshqaruvi organlari tomonidan davlat mulki boʻlgan mol-mulk negizida tashkil etilgan, davlat taʼlim standartlariga va davlat taʼlim talablariga muvofiq taʼlim beradigan muassasa;
+
+davlat taʼlim standartlari — davlat tomonidan taʼlimning mazmuni va sifatiga nisbatan belgilanadigan talablar majmui;
+
+davlat taʼlim talablari — taʼlimning tuzilmasiga, mazmuniga va uni amalga oshirish shart-sharoitlariga, shuningdek taʼlim oluvchilarning jismoniy, shaxsiy, intellektual, ilmiy hamda kasbiy sifatlariga qoʻyiladigan majburiy talablar;
+
+kompleks davlat akkreditatsiyasi — oʻrta maxsus, professional, oliy taʼlimni va oliy taʼlimdan keyingi taʼlimni, shuningdek kadrlarni tayyorlash va qayta tayyorlashni amalga oshiruvchi davlat va nodavlat taʼlim tashkilotlarini tashqi baholash natijalariga asoslangan jarayon;
+
+maxsus davlat akkreditatsiyasi — oʻrta maxsus, professional, oliy taʼlimni va oliy taʼlimdan keyingi taʼlimni, shuningdek kadrlarni qayta tayyorlash va ularning malakasini oshirishni amalga oshiruvchi davlat va nodavlat taʼlim tashkilotlarida taʼlim dasturlari boʻyicha oʻquv jarayoni boshlanishidan oldin amalga oshiriladigan jarayon;
+
+malaka — shaxsning kasbiy faoliyatning muayyan turini bajarishga tayyorgarligini ifodalaydigan, maʼlumot toʻgʻrisidagi tegishli hujjat bilan tasdiqlanadigan bilim, qobiliyat, mahorat va koʻnikmalar darajasi;
+
+mutaxassislik — malaka berish bilan yakunlanadigan muayyan kasbiy tayyorgarlik turining nomi;
+
+nodavlat taʼlim tashkiloti — davlat taʼlim standartlari, davlat taʼlim talablari va oʻquv dasturlariga muvofiq taʼlim xizmatlari koʻrsatish faoliyatini amalga oshirish huquqini beradigan litsenziya asosida yoki xabardor qilish tartibida taʼlim xizmatlari koʻrsatuvchi yuridik shaxs;
+
+tarbiya — aniq maqsadli hamda ijtimoiy-tarixiy tajriba asosida yosh avlodni har tomonlama kamol toptirishga, ularning ongini, maʼnaviy-axloqiy qadriyatlar va dunyoqarashini shakllantirishga qaratilgan tizimli jarayon;
+
+taʼlim — taʼlim oluvchilarga chuqur nazariy bilim, malakalar va amaliy koʻnikmalar berishga, shuningdek ularning umumtaʼlim va kasbiy bilim, malaka hamda koʻnikmalarini shakllantirishga, qobiliyatini rivojlantirishga qaratilgan tizimli jarayon;
+
+taʼlim dasturi — davlat taʼlim standartlariga, kasb standartlariga va milliy (tarmoq) malaka doirasiga muvofiq ishlab chiqilgan taʼlim standartlaridan, oʻquv rejalaridan, oʻquv dasturlaridan va tegishli uslubiy koʻrsatmalardan iborat normativ-uslubiy hujjatlar majmui;
+
+taʼlim kampusi — yagona hududda birlashtirilgan oʻquv binolarini, ilmiy-tadqiqot institutlarini (markazlarini), ishlab chiqarish majmualari va texnoparklarni, taʼlim-tarbiya jarayoni ishtirokchilarining vaqtincha yashash joylarini, laboratoriyalarni, axborot-resurs markazlarini (kutubxonalarni), sport inshootlarini, umumiy ovqatlanish obyektlarini oʻz ichiga olgan binolar hamda inshootlar majmuidan iborat boʻlgan, oʻquv jarayoni, maʼnaviy-axloqiy tarbiyaning yuqori samaradorligini taʼminlaydigan taʼlim-tarbiya muhiti;
+
+taʼlim-tarbiya jarayoni ishtirokchilari — taʼlim oluvchilar, voyaga yetmagan taʼlim oluvchilarning ota-onalari yoki boshqa qonuniy vakillari, pedagog xodimlar va ularning vakillari;
+
+taʼlim tashkilotlari attestatsiyasi — taʼlim tashkilotlarining faoliyatini baholash, davlat taʼlim standartlari, davlat taʼlim talablari hamda oʻquv dasturlariga muvofiq kadrlar tayyorlash mazmuni, darajasi va sifatini aniqlash boʻyicha davlat nazoratining asosiy shakli;
+
+xalqaro akkreditatsiya — taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari tomonidan Oʻzbekiston Respublikasi hududida faoliyatni amalga oshirishga vakolat berilgan va xalqaro akkreditatsiya tashkilotlarining reyestriga kiritilgan xalqaro taʼlim sifatini taʼminlash tarmoqlarining toʻla huquqli aʼzosi boʻlgan xalqaro akkreditatsiya tashkilotlari tomonidan amalga oshiriladigan jarayon.
+
+4-modda. Taʼlim sohasidagi asosiy prinsiplar
+
+Taʼlim sohasidagi asosiy prinsiplar quyidagilardan iborat:
+
+taʼlim ustuvorligining tan olinishi;
+
+taʼlim olish shaklini tanlash erkinligi;
+
+taʼlim sohasida kamsitishlarga yoʻl qoʻyilmasligi;
+
+taʼlim olishga doir teng imkoniyatlarning taʼminlanishi;
+
+taʼlim va tarbiyaga milliy hamda umuminsoniy qadriyatlarning singdirilganligi;
+
+taʼlim va tarbiyaning insonparvarlik, demokratik xususiyati;
+
+taʼlimning uzluksizligi va izchilligi;
+
+oʻn bir yillik taʼlimning hamda olti yoshdan yetti yoshgacha boʻlgan bolalarni bir yil davomida umumiy oʻrta taʼlimga tayyorlashning majburiyligi;
+
+davlat taʼlim standartlari va davlat taʼlim talablari doirasida taʼlim olishning hamma uchun ochiqligi;
+
+oʻquv dasturlarini tanlashga doir yondashuvning yagonaligi va tabaqalashtirilganligi;
+
+insonning butun hayoti davomida taʼlim olishi;
+
+jamiyatda pedagoglarni ijtimoiy himoya qilishning kafolatlanganligi;
+
+taʼlim tizimining dunyoviy xususiyatga egaligi;
+
+bilimlilik, qobiliyatlilik va isteʼdodning ragʻbatlantirilishi;
+
+taʼlim tizimida davlat va jamoat boshqaruvining uygʻunligi;
+
+taʼlim faoliyati sohasidagi ochiqlik va shaffoflik.
+
+5-modda. Taʼlim olish huquqi
+
+Jinsi, irqi, millati, tili, dini, eʼtiqodi, ijtimoiy kelib chiqishi, ijtimoiy mavqeyidan qatʼi nazar, har kimga taʼlim olish uchun teng huquqlar kafolatlanadi.
+
+Taʼlim olish huquqi:
+
+taʼlim tashkilotlarini rivojlantirish;
+
+taʼlim tashkilotlarida innovatsion faoliyatni qoʻllab-quvvatlash va oʻquv dasturlarini innovatsion texnologiyalarni qoʻllagan holda amalga oshirish;
+
+ishlab chiqarishdan ajralgan (kunduzgi) va ajralmagan holda (sirtqi, kechki, masofaviy) taʼlim olishni tashkil etish;
+
+kadrlarni tayyorlash, qayta tayyorlash va ularning malakasini oshirish;
+
+umumiy oʻrta, oʻrta maxsus taʼlimni va boshlangʻich professional taʼlimni bepul olish;
+
+oilada yoki mustaqil oʻqish orqali taʼlim olgan fuqarolarga, shuningdek umumiy oʻrta taʼlim olmagan shaxslarga akkreditatsiyadan oʻtgan davlat taʼlim muassasalarida eksternat tartibida attestatsiyadan oʻtish huquqini berish orqali taʼminlanadi.
+
+Chet ellik fuqarolar Oʻzbekiston Respublikasining xalqaro shartnomalariga va qonunchiligiga muvofiq Oʻzbekiston Respublikasida taʼlim olishga haqlidir.
+
+Oʻzbekiston Respublikasida doimiy yashayotgan fuqaroligi boʻlmagan shaxslar taʼlim olish uchun Oʻzbekiston Respublikasi fuqarolari bilan teng huquqlarga ega.
+
+2-bob. Taʼlim tizimi, turlari va shakllari
+
+6-modda. Taʼlim tizimi
+
+Taʼlim tizimi:
+
+davlat taʼlim standartlarini, davlat taʼlim talablarini, oʻquv rejalari va oʻquv dasturlarini;
+
+davlat taʼlim standartlarini, davlat taʼlim talablari va oʻquv dasturlarini amalga oshiruvchi taʼlim tashkilotlarini;
+
+taʼlim sifatini baholashni amalga oshiruvchi tashkilotlarni;
+
+taʼlim tizimining faoliyat koʻrsatishi va rivojlanishini taʼminlash uchun zarur boʻlgan tadqiqot ishlarini bajaruvchi ilmiy-pedagogik muassasalarni;
+
+taʼlim sohasidagi davlat boshqaruvi organlarini, shuningdek ularning tasarrufidagi tashkilotlarni oʻz ichiga oladi.
+
+Taʼlim tizimi yagona va uzluksizdir.
+
+7-modda. Taʼlim turlari
+
+Taʼlim turlari quyidagilardan iborat:
+
+maktabgacha taʼlim va tarbiya;
+
+umumiy oʻrta va oʻrta maxsus taʼlim;
+
+professional taʼlim;
+
+oliy taʼlim;
+
+oliy taʼlimdan keyingi taʼlim;
+
+kadrlarni qayta tayyorlash va ularning malakasini oshirish;
+
+qoʻshimcha taʼlim.
+
+8-modda. Maktabgacha taʼlim va tarbiya
+
+Maktabgacha taʼlim va tarbiya bolalarni oʻqitish va tarbiyalashga, ularni intellektual, maʼnaviy-axloqiy, etik, estetik va jismoniy jihatdan rivojlantirishga, shuningdek bolalarni umumiy oʻrta taʼlimga tayyorlashga qaratilgan taʼlim turidir.
+
+Maktabgacha taʼlim va tarbiya olti yoshdan yetti yoshgacha boʻlgan bolalarni boshlangʻich taʼlimga bir yillik majburiy tayyorlashni ham nazarda tutadi.
+
+Maktabgacha taʼlim va tarbiyani tashkil etish tartibi ushbu Qonun, shuningdek “Maktabgacha taʼlim va tarbiya toʻgʻrisida”gi Oʻzbekiston Respublikasi Qonuni bilan belgilanadi.
+
+9-modda. Umumiy oʻrta va oʻrta maxsus taʼlim
+
+Umumiy oʻrta va oʻrta maxsus taʼlim umumtaʼlim oʻquv dasturlarini, zarur bilim, malaka hamda koʻnikmalarni oʻzlashtirishga qaratilgan.
+
+Umumiy oʻrta taʼlim (I — XI sinflar) bosqichlari quyidagilardan iborat:
+
+boshlangʻich taʼlim (I — IV sinflar);
+
+tayanch oʻrta taʼlim (V — IX sinflar);
+
+oʻrta taʼlim (X — XI sinflar).
+
+Umumiy oʻrta taʼlim tashkilotining birinchi sinfiga bolalar ular yetti yoshga toʻladigan yilda qabul qilinadi.
+
+Boshlangʻich taʼlim taʼlim oluvchilarda umumiy oʻrta taʼlimni davom ettirish uchun zarur boʻlgan savodxonlik, bilim, malaka va koʻnikmalar asoslarini shakllantirishga qaratilgan.
+
+Tayanch oʻrta taʼlim oʻquv dasturiga muvofiq taʼlim oluvchilarga bilim, malaka va koʻnikmalarning zaruriy hajmini beradi, ularda mustaqil fikrlash va tahlil qilish qobiliyatini rivojlantiradi.
+
+Tayanch oʻrta taʼlim doirasida (VII sinfdan soʻng) taʼlim oluvchilarda kasblar boʻyicha birlamchi bilim va koʻnikmalarni shakllantirish uchun ularni professional tashxislash va kasb-hunarga yoʻnaltirish boʻyicha choralar amalga oshiriladi.
+
+Oʻrta taʼlim oʻquv dasturiga muvofiq taʼlim oluvchilar tomonidan zarur bilim, malaka va koʻnikmalar oʻzlashtirilishini, shuningdek taʼlimning keyingi turi tanlanishini hamda yuqori malaka talab qilinmaydigan kasblar egallanishini taʼminlaydi.
+
+Professional tashxislash va kasb-hunarga yoʻnaltirish, shuningdek taʼlim oluvchilarni yuqori malaka talab qilinmaydigan kasblarga tayyorlash tartibi qonunchilikda belgilanadi.
+
+Umumiy oʻrta taʼlim umumiy oʻrta taʼlim tashkilotlarida uzluksiz tarzda, majburiy boʻlgan oʻn bir yil davomida amalga oshiriladi.
+
+Oʻrta maxsus taʼlim akademik litseylarda toʻqqiz yillik tayanch oʻrta taʼlim asosida ikki yil mobaynida amalga oshiriladi va taʼlim oluvchilarning intellektual qobiliyatlarining jadal rivojlanishini, shuningdek chuqur, tabaqalashtirilgan, kasb-xunarga va shaxsga yoʻnaltirilgan taʼlim olishini taʼminlaydi.
+
+Nodavlat umumiy oʻrta taʼlim tashkilotlari oʻz faoliyatini litsenziya asosida, davlat taʼlim standartiga muvofiq tashkil etadi.
+
+Nodavlat taʼlim tashkilotlarida umumiy oʻrta va oʻrta maxsus taʼlim toʻlov-shartnoma asosida amalga oshirilishi mumkin.
+
+Iqtidorli va isteʼdodli bolalarning qobiliyatini rivojlantirish uchun Prezident, ijod va boshqa ixtisoslashtirilgan maktablar, shuningdek maktab-internatlar tashkil etilishi mumkin.
+
+Jismoniy, aqliy, sensor (sezgi) yoki ruhiy nuqsonlari boʻlgan bolalar, shuningdek uzoq vaqt davolanishga muhtoj boʻlgan bolalar davlat ixtisoslashtirilgan taʼlim muassasalarida, umumiy oʻrta va oʻrta maxsus taʼlim tashkilotlarida inklyuziv shaklda yoki uy sharoitlarida yakka tartibda taʼlim oladi.
+
+Umumiy oʻrta taʼlim tashkilotlarining sinflarida (guruhlarida) taʼlim oluvchilar soni oʻttiz besh nafardan oshmasligi kerak.
+
+10-modda. Professional taʼlim
+
+Professional taʼlim egallanadigan kasb va mutaxassislik boʻyicha quyidagi darajalarni oʻz ichiga oladi:
+
+boshlangʻich professional taʼlim;
+
+oʻrta professional taʼlim;
+
+oʻrta maxsus professional taʼlim.
+
+Boshlangʻich professional taʼlim kasb-hunar maktablarida IX sinf bitiruvchilari negizida bepul asosda kunduzgi taʼlim shakli boʻyicha umumtaʼlim fanlarining va mutaxassislik fanlarining ikki yillik integratsiyalashgan dasturlari asosida amalga oshiriladi.
+
+Oʻrta professional taʼlim kollejlarda davlat buyurtmasi yoki toʻlov-shartnoma asosida kasblar hamda mutaxassisliklarning murakkabligidan kelib chiqqan holda, davomiyligi ikki yilgacha boʻlgan kunduzgi, kechki va sirtqi taʼlim shakllari boʻyicha umumiy oʻrta, oʻrta maxsus taʼlim hamda boshlangʻich professional taʼlim negizida amalga oshiriladi.
+
+Oʻrta maxsus professional taʼlim texnikumlarda umumiy oʻrta, oʻrta maxsus, boshlangʻich professional va oʻrta professional taʼlim negizida davlat buyurtmasi yoki toʻlov-shartnoma asosida kasblar hamda mutaxassisliklarning murakkabligidan kelib chiqqan holda, davomiyligi kamida ikki yil boʻlgan kunduzgi, kechki va sirtqi taʼlim shakllari boʻyicha amalga oshiriladi.
+
+Ushbu Qonun kuchga kirguniga qadar oʻrta maxsus, kasb-hunar taʼlimi (toʻqqiz yillik umumiy oʻrta va uch yillik oʻrta maxsus, kasb-hunar taʼlimi) olgan fuqarolar ham oʻrta professional va oʻrta maxsus professional taʼlim olish huquqiga ega.
+
+Kasb-hunar maktablari, kollejlar va texnikumlar taʼlim oluvchilarning oʻzi tanlagan kasbga va mutaxassislikka ega boʻlishini taʼminlaydi.
+
+Fuqarolar shartnoma asosida ikkinchi va undan keyingi professional taʼlimni olish huquqiga ega.
+
+11-modda. Oliy taʼlim
+
+Oliy taʼlim bakalavriat taʼlim yoʻnalishlari va magistratura mutaxassisliklari boʻyicha yuqori malakali kadrlar tayyorlanishini taʼminlaydi.
+
+Oliy maʼlumotli kadrlarni tayyorlash oliy taʼlim tashkilotlarida (universitetlar, akademiyalar, institutlar, oliy maktablar) amalga oshiriladi. Umumiy oʻrta (oʻn bir yillik taʼlim), oʻrta maxsus (toʻqqiz yillik tayanch oʻrta va ikki yillik oʻrta maxsus taʼlim), boshlangʻich professional taʼlim (toʻqqiz yillik tayanch oʻrta va ikki yillik boshlangʻich professional taʼlim) olgan shaxslar, shuningdek ushbu Qonun kuchga kirguniga qadar oʻrta maxsus, kasb-hunar taʼlimi (toʻqqiz yillik umumiy oʻrta va uch yillik oʻrta maxsus, kasb-hunar taʼlimi) olgan shaxslar oliy maʼlumot olish huquqiga ega.
+
+Oliy taʼlim ikki bosqichga — bakalavriat va magistratura bosqichiga ega.
+
+Bakalavriat oliy taʼlim yoʻnalishlaridan biri boʻyicha chuqurlashtirilgan bilim, malaka va koʻnikmalar beradigan, oʻqish davomiyligi kamida uch yil boʻlgan tayanch oliy taʼlimdir.
+
+Magistratura tegishli bakalavriat negizidagi aniq mutaxassislik boʻyicha oʻqish davomiyligi kamida bir yil boʻlgan oliy taʼlimdir.
+
+Magistratura mutaxassisliklarining va ularga muvofiq boʻlgan bakalavriat taʼlim yoʻnalishlarining roʻyxati taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organi tomonidan belgilanadi.
+
+Fuqarolar shartnoma asosida ikkinchi va undan keyingi oliy maʼlumotni olish huquqiga ega.
+
+12-modda. Oliy taʼlimdan keyingi taʼlim
+
+Oliy taʼlimdan keyingi taʼlimni oliy taʼlim va ilmiy tashkilotlarda olish mumkin.
+
+Oliy taʼlimdan keyingi taʼlim doktorlik dissertatsiyasini tayyorlash va himoya qilish maqsadida mutaxassislikni chuqur oʻrganishni va ilmiy izlanishlar olib borishni nazarda tutadigan tayanch doktorantura, doktorantura va mustaqil izlanuvchanlik asosida ilmiy darajaga ega ilmiy va ilmiy-pedagogik kadrlar tayyorlashni taʼminlaydi.
+
+Tayanch doktorantura falsafa doktori (Doctor of Philosophy (PhD) ilmiy darajasiga daʼvogar izlanuvchilar uchun ishlab chiqarishdan ajralgan holda tashkil etiladigan oliy malakali ilmiy va ilmiy-pedagog kadrlar ixtisosligi boʻyicha oliy taʼlimdan keyingi taʼlim shakli hisoblanadi.
+
+Doktorantura fan doktori (Doctor of Science (DSc) ilmiy darajasiga daʼvogar izlanuvchilar uchun ishlab chiqarishdan ajralgan holda tashkil etiladigan oliy malakali ilmiy va ilmiy-pedagog kadrlar ixtisosligi boʻyicha oliy taʼlimdan keyingi taʼlim shakli hisoblanadi.
+
+Mustaqil izlanuvchilik falsafa doktori (Doctor of Philosophy (PhD) yoki fan doktori (Doctor of Science (DSc) ilmiy darajalariga daʼvogar izlanuvchilar uchun ishlab chiqarishdan ajralmagan holda tashkil etiladigan oliy malakali ilmiy va ilmiy-pedagog kadrlar ixtisosligi boʻyicha oliy taʼlimdan keyingi taʼlim shakli hisoblanadi.
+
+Ilmiy va ilmiy-pedagogik kadrlar tayyorlash, ilmiy darajalar va ilmiy unvonlar berish tartibi, shuningdek harbiy, tibbiyot va boshqa taʼlim tashkilotlarida oliy taʼlimdan keyingi taʼlim olish xususiyatlari qonunchilikda belgilanadi.
+
+Oliy taʼlimdan keyingi taʼlimning davom etish muddati qonunchilikda belgilanadi.
+
+13-modda. Kadrlarni qayta tayyorlash va ularning malakasini oshirish
+
+Kadrlarni qayta tayyorlash tayanch mutaxassisliklar va kasblarga muvofiq boʻlgan yoʻnalishlar boʻyicha faoliyatni amalga oshirish uchun qoʻshimcha kasbiy bilim, malaka va koʻnikmalarning zarur hajmi egallanishini taʼminlaydi.
+
+Kadrlar malakasini oshirish kasbiy bilim, malaka va koʻnikmalarning chuqurlashtirilishi hamda yangilab borilishini taʼminlaydi, kadrlarning toifasi, darajasi, razryadi va lavozimi oshishiga xizmat qiladi.
+
+Kadrlarni qayta tayyorlash va ularning malakasini oshirish shakllari va muddatlari tegishli davlat taʼlim talablari bilan belgilanadi.
+
+14-modda. Qoʻshimcha taʼlim
+
+Qoʻshimcha taʼlim bolalar va katta yoshdagilarning ijodiy qobiliyatini shakllantirishga hamda kasbiy koʻnikmalarini rivojlantirishga, intellektual va jismoniy takomillashuvga boʻlgan individual ehtiyojlarini qanoatlantirishga, sogʻlom turmush tarzini shakllantirishga, sogʻligʻini mustahkamlashga va boʻsh vaqtlarini samarali tashkil etishga qaratilgan boʻlib, u quyidagi turlarni oʻz ichiga oladi:
+
+bolalar uchun qoʻshimcha taʼlimni;
+
+katta yoshdagilar uchun qoʻshimcha taʼlimni.
+
+Bolalar uchun qoʻshimcha taʼlim uzluksiz taʼlim berishning tarkibiy qismi sifatida ularning isteʼdodi va qobiliyatini rivojlantirish, maʼnaviy ehtiyojlarini qanoatlantirish maqsadida amalga oshiriladi.
+
+Bunda davlat organlari, nodavlat notijorat tashkilotlari, shuningdek tijorat tashkilotlari madaniy-estetik, ilmiy, texnikaviy, sport va boshqa yoʻnalishlarda bolalar uchun qoʻshimcha taʼlim tashkilotlarini tashkil etishi mumkin.
+
+Bolalar uchun qoʻshimcha taʼlim tashkilotlari jumlasiga bolalar va oʻsmirlar ijodiyoti saroylari, uylari, klublari va markazlari, “Barkamol avlod” bolalar maktablari, bolalar-oʻsmirlar sport maktablari, bolalar musiqa va sanʼat maktablari, studiyalar, axborot-kutubxona hamda sogʻlomlashtirish muassasalari kiradi.
+
+Katta yoshdagilar uchun qoʻshimcha taʼlim ularning taʼlimga boʻlgan ehtiyojlarini qanoatlantirish, qoʻshimcha bilim va koʻnikmalarni egallashiga koʻmaklashish uchun tashkil etiladi.
+
+Qoʻshimcha taʼlim berish tartibi taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari tomonidan belgilanadi.
+
+14¹-modda. Maʼrifiy faoliyat
+
+Maʼrifiy faoliyat shaxsning shaxsiy, intellektual va maʼnaviy jihatdan kamol topishi, ijtimoiy va iqtisodiy faolligini oshirish, intellektual va ijodiy salohiyatini namoyon etish, individual salohiyatini, imkoniyatlarini, muloqot qilish qobiliyatlarini yaxshilash uchun zarur koʻnikmalar va malakalarni shakllantirishga qaratilgan, davlat taʼlim standartlari bilan qamrab olinmaydigan faoliyat turi hisoblanadi.
+
+Maʼrifiy faoliyat qonunchilik hujjatlarida nazarda tutilgan talablar hisobga olingan holda, respublika ijro etuvchi hokimiyat organlari, mahalliy davlat hokimiyati organlari, fuqarolarning oʻzini oʻzi boshqarish organlari, jismoniy va yuridik shaxslar tomonidan amalga oshirilishi mumkin.
+
+Jinoyat ishi boʻyicha ayblanuvchi tariqasida jalb etilgan (sud hukmi qonuniy kuchga kirguniga yoxud reabilitatsiya qiluvchi asoslarga binoan uni jinoiy javobgarlikdan ozod etish toʻgʻrisida qaror qabul qilinguniga qadar), jinsiy erkinlikka qarshi jinoyatlarni, oilaga, yoshlarga va axloqqa qarshi jinoyatlarni, tinchlikka va insoniyatning xavfsizligiga qarshi jinoyatlarni, Oʻzbekiston Respublikasiga qarshi jinoyatlarni, firibgarlikni hamda boshqaruv tartibiga qarshi jinoyatlarni korrupsiyaga oid jinoyatlarni, giyohvandlik vositalari, ularning analoglari yoki psixotrop moddalar bilan qonunga xilof ravishda muomala qilish bilan bogʻliq jinoyatlarni sodir etganligi uchun sudlanganlik holati tugallanmagan yoki olib tashlanmagan shaxslar, sud tomonidan muomalaga layoqatsiz yoki muomala layoqati cheklangan deb topilgan shaxslar, shuningdek psixiatriya yoki narkologiya muassasalarida hisobda turgan shaxslar maʼrifiy faoliyatni amalga oshirishi mumkin emas.
+
+Maʼrifiy faoliyatni amalga oshirish tartibi, shakllari, talablari va shartlari Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+
+15-modda. Taʼlim olish shakllari
+
+Taʼlim olish shakllari quyidagilardan iborat:
+
+ishlab chiqarishdan ajralgan holda taʼlim olish (kunduzgi);
+
+ishlab chiqarishdan ajralmagan holda taʼlim olish (sirtqi, kechki, masofaviy);
+
+dual taʼlim;
+
+oilada taʼlim olish va mustaqil taʼlim olish;
+
+katta yoshdagilarni oʻqitish va ularga taʼlim berish;
+
+inklyuziv taʼlim;
+
+eksternat tartibidagi taʼlim;
+
+mudofaa, xavfsizlik va huquqni muhofaza qilish faoliyati sohasida kadrlar tayyorlash.
+
+16-modda. Masofaviy taʼlim
+
+Masofaviy taʼlim oʻquv rejalari va oʻquv dasturlariga muvofiq taʼlim oluvchilar tomonidan zarur bilim, malaka va koʻnikmalarni axborot-kommunikatsiya texnologiyalaridan hamda Internet jahon axborot tarmogʻidan foydalangan holda masofadan turib olishga qaratilgan.
+
+Masofaviy taʼlimni tashkil etish tartibi Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+
+17-modda. Dual taʼlim
+
+Dual taʼlim taʼlim oluvchilar tomonidan zarur bilim, malaka va koʻnikmalarni olishga qaratilgan boʻlib, ularning nazariy qismi taʼlim tashkiloti negizida, amaliy qismi esa taʼlim oluvchining ish joyida amalga oshiriladi.
+
+Dual taʼlimni tashkil etish tartibi Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+
+18-modda. Oilada taʼlim olish va mustaqil taʼlim olish
+
+Davlat oilada taʼlim olishga va mustaqil taʼlim olishga koʻmaklashadi. Bolalarning oilada taʼlim olishi va mustaqil taʼlim olish uslubiy va maslahat yordami koʻrsatilgan holda tegishli oʻquv dasturlari boʻyicha amalga oshiriladi.
+
+Oilada taʼlim olish va mustaqil taʼlim olish tartibi, shuningdek taʼlim oluvchilarning toifalari taʼlim sohasidagi vakolatli davlat boshqaruvi organlari tomonidan belgilanadi.
+
+Oilada taʼlim olish bolalar, oila, davlat va jamiyat manfaatlarini hisobga olgan holda davlat taʼlim muassasasi hamda taʼlim oluvchilarning ota-onasi yoki boshqa qonuniy vakillari oʻrtasidagi shartnoma asosida amalga oshiriladi.
+
+Mustaqil taʼlim olish yakka tartibda amalga oshiriladi hamda taʼlim oluvchilarni kasbiy, intellektual, maʼnaviy va madaniy rivojlantirishga xizmat qiladi.
+
+Oilada taʼlim olgan va mustaqil taʼlim olgan shaxslarga davlat tomonidan tasdiqlangan namunadagi taʼlim toʻgʻrisidagi hujjatni berish davlat taʼlim muassasalarining tasdiqlangan oʻquv dasturiga muvofiq eksternat tartibida amalga oshiriladi.
+
+19-modda. Katta yoshdagilarni oʻqitish va ularga taʼlim berish
+
+Katta yoshdagilarni oʻqitish va ularga taʼlim berish butun umr davomida oʻqitishning markaziy tarkibiy qismi boʻlib, taʼlim berish hamda oʻqitishning jamiyat hayotida va mehnat faoliyatida katta yoshdagilarning ishtirok etishini taʼminlashga qaratilgan barcha shakllarini oʻz ichiga oladi, shuningdek rasmiy, norasmiy va informal oʻqitish jarayonlarining butun majmuini qamrab oladi.
+
+Rasmiy taʼlim davlat taʼlim muassasalari hamda davlat tomonidan tan olingan akkreditatsiyadan oʻtgan nodavlat taʼlim tashkilotlari ishtirokidagi institutsionallashtirilgan (muayyan qoidalar va normalarni mujassamlashtiruvchi), aniq maqsadga yoʻnaltirilgan va rejalashtirilgan taʼlimdir.
+
+Norasmiy taʼlim taʼlim xizmatlari taqdim etilishini taʼminlovchi shaxs yoki tashkilot tomonidan institutsionallashtirilgan (muayyan qoidalar va normalarni mujassamlashtiruvchi), aniq maqsadga yoʻnaltirilgan va rejalashtirilgan boʻlib, shaxsni butun hayoti davomida oʻqitishdagi rasmiy taʼlimga qoʻshimcha va (yoki) uning muqobilidir.
+
+Informal taʼlim aniq maqsadga yoʻnaltirilgan, ammo institutsionallashtirilmagan (muayyan qoidalar va normalarni mujassamlashtirmagan), rasmiy yoki norasmiy taʼlimdan koʻra kamroq tashkillashtirilgan va tarkiblashtirilgandir hamda oiladagi, ish joyidagi, yashash joyidagi va kundalik hayotdagi oʻquv faoliyatini oʻz ichiga olishi mumkin.
+
+20-modda. Inklyuziv taʼlim
+
+Inklyuziv taʼlim alohida taʼlim ehtiyojlari va individual imkoniyatlarning xilma-xilligini hisobga olgan holda barcha taʼlim oluvchilar uchun taʼlim tashkilotlarida taʼlim olishga boʻlgan teng imkoniyatlarni taʼminlashga qaratilgan.
+
+Jismoniy, aqliy, sensor (sezgi) yoki ruhiy nuqsonlari boʻlgan bolalar (shaxslar) uchun taʼlim tashkilotlarida inklyuziv taʼlim tashkil etiladi.
+
+Inklyuziv taʼlimni tashkil etish tartibi Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+
+21-modda. Eksternat tartibidagi taʼlim
+
+Eksternat tartibidagi taʼlim olish oʻquv dasturlarini mustaqil ravishda oʻzlashtirishni oʻz ichiga olib, uning yakunlari boʻyicha taʼlim oluvchilardan davlat taʼlim muassasalarida yakuniy va davlat attestatsiyalaridan oʻtishni talab etadi.
+
+Eksternat tartibidagi taʼlim olishni tashkil etish tartibi Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+
+22-modda. Mudofaa, xavfsizlik va huquqni muhofaza qilish faoliyati sohasida kadrlarni tayyorlash
+
+Mudofaa, xavfsizlik va huquqni muhofaza qilish faoliyati sohasida kadrlarni tayyorlash ularning oʻziga xos xususiyatlaridan kelib chiqqan holda qonunchilikka muvofiq amalga oshiriladi.
+
+3-bob. Taʼlim tizimini boshqarish
+
+23-modda. Oʻzbekiston Respublikasi Vazirlar Mahkamasining taʼlim sohasidagi vakolatlari
+
+Oʻzbekiston Respublikasi Vazirlar Mahkamasi:
+
+taʼlim sohasidagi yagona davlat siyosatini amalga oshiradi;
+
+taʼlim sohasidagi davlat dasturlarini tasdiqlaydi va ularning amalga oshirilishini taʼminlaydi;
+
+taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlariga rahbarlik qiladi;
+
+taʼlim tashkilotlarini attestatsiyadan va davlat akkreditatsiyasidan, kompleks va maxsus davlat akkreditatsiyasidan oʻtkazish tartibini tasdiqlash, pedagog kadrlarni va ilmiy xodimlarni attestatsiyadan oʻtkazish, nodavlat taʼlim tashkilotlariga taʼlim xizmatlari koʻrsatish faoliyatini amalga oshirish huquqini beradigan litsenziyalar (bundan buyon matnda litsenziya deb yuritiladi) berish vakolatli organni ushbu sohada faoliyat boshlash toʻgʻrisida xabardor qilish, taʼlim toʻgʻrisidagi hujjatlarga apostil qoʻyish tartibini belgilaydi;
+
+pedagogik kadrlarni taʼlim tashkilotlariga (bundan moliyaviy mustaqillik berilgan davlat oliy taʼlim tashkilotlari mustasno) ishga qabul qilish va ular faoliyatini baholash tartibini belgilaydi;
+
+xorijiy davlatlarning taʼlim muassasalariga Oʻzbekiston Respublikasi hududida taʼlim faoliyati bilan shugʻullanish huquqiga doir ruxsatnomalar beradi;
+
+xorijiy davlatlarda olingan taʼlim toʻgʻrisidagi hujjatlarni tan olish tartibini belgilaydi;
+
+davlat namunasidagi taʼlim toʻgʻrisidagi hujjatlarni tasdiqlaydi va davlat tomonidan tasdiqlangan namunadagi taʼlim toʻgʻrisidagi hujjatlar berish tartibini belgilaydi;
+
+eksternat tartibida oʻqitishga yoʻl qoʻyilmaydigan taʼlim yoʻnalishlari, mutaxassisliklar va kasblar roʻyxatini tasdiqlaydi;
+
+faqat davlat taʼlim muassasalarida oʻqitiladigan taʼlim yoʻnalishlari, mutaxassisliklar va kasblar roʻyxatini tasdiqlaydi;
+
+davlat taʼlim muassasalari va tashkilotlariga qabul qilish tartibini belgilaydi;
+
+davlat oliy taʼlim tashkilotlari rektorlarini, shuningdek davlat ishtirokida tashkil etiladigan oliy taʼlim tashkilotlari (davlat ulushi boʻlgan nodavlat oliy taʼlim tashkilotlari, qoʻshma taʼlim tashkilotlari, davlat-xususiy sheriklik asosida tashkil etiladigan taʼlim tashkilotlari va boshqalar) rektorlarini (rahbarlarini) lavozimga tayinlaydi hamda egallab turgan lavozimidan ozod etadi;
+
+taʼlim oluvchilarni akkreditatsiya qilingan bir taʼlim tashkilotidan boshqasiga koʻchirish, shuningdek ularni oʻqishdan chetlashtirish va qayta tiklash tartibini belgilaydi;
+
+taʼlim tashkilotlari reytingini aniqlash tartibini belgilaydi;
+
+kadrlarni qayta tayyorlash va ularning malakasini oshirish tartibini belgilaydi;
+
+maʼrifiy faoliyatni amalga oshirish tartibini belgilaydi;
+
+mehnat bozori talablarini prognoz va tahlil qilish asosida taʼlim tashkilotlarida kadrlarni tayyorlash boʻyicha davlat buyurtmalarini shakllantiradi;
+
+taʼlim tashkilotlariga nisbatan moddiy-texnik, infratuzilmaviy va parametrik talablarni belgilaydi (bundan oʻrta maxsus, professional va oliy taʼlim tashkilotlari mustasno);
+
+darsliklar va oʻquv qoʻllanmalarini tayyorlash hamda nashr etish tartibini, shuningdek ularni yetkazib berishga va ulardan taʼlim tashkilotlarida foydalanishga qoʻyiladigan talablarni belgilaydi (bundan oʻrta maxsus, professional va oliy taʼlim tashkilotlari mustasno).
+
+Oʻzbekiston Respublikasi Vazirlar Mahkamasi qonunchilikka muvofiq boshqa vakolatlarni ham amalga oshirishi mumkin.
+
+(24-modda oʻz kuchini yoʻqotgan.)
+
+(25-modda oʻz kuchini yoʻqotgan.)
+
+26-modda. Taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari
+
+Oʻzbekiston Respublikasi Maktabgacha va maktab taʼlimi vazirligi hamda Oliy taʼlim, fan va innovatsiyalar vazirligi taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlaridir.
+
+Taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari oʻz vakolatlari doirasida:
+
+taʼlim sohasidagi yagona davlat siyosatini amalga oshiradi;
+
+iqtidorli yoshlarni aniqlash, tanlash, oʻqitish va tarbiyalash sohasida davlat siyosatini ishlab chiqadi va amalga oshiradi;
+
+taʼlim sohasidagi tarmoq davlat dasturlarini ishlab chiqadi, tasdiqlaydi va amalga oshiradi;
+
+taʼlim tashkilotlari faoliyatini muvofiqlashtiradi va ularga uslubiy rahbarlik qiladi;
+
+davlat taʼlim standartlari (shu jumladan maktabgacha taʼlim va tarbiya davlat standarti) va davlat taʼlim talablarida kadrlarning maʼlumoti darajasiga hamda kasbiy tayyorgarligi sifatiga qoʻyilgan talablarning taʼlim tashkilotlari tomonidan bajarilishi ustidan nazoratni amalga oshiradi;
+
+davlat taʼlim standartlari (shu jumladan maktabgacha taʼlim va tarbiya davlat standarti) hamda davlat taʼlim talablari ishlab chiqilishini taʼminlaydi va ularni tasdiqlaydi;
+
+taʼlim oluvchilarning bilim, koʻnikma va malakalarini baholash tartibini belgilaydi;
+
+oʻrta maxsus taʼlim yoʻnalishlari, professional taʼlimning kasblar va mutaxassisliklari, oliy taʼlimning bakalavriat taʼlim yoʻnalishlari va magistratura mutaxassisliklari, shuningdek bilim sohalari va taʼlim sohalari roʻyxatini tasdiqlaydi;
+
+taʼlim-tarbiya jarayoniga oʻqitishning ilgʻor shakllari, yangi pedagogik texnologiyalar, oʻqitishning texnik va axborot vositalari joriy etilishini taʼminlaydi;
+
+taʼlim tashkilotlarida kadrlarning kasbiy tayyorgarligi sifatini oshirishga qaratilgan chora-tadbirlarni ishlab chiqadi, oʻquv dasturlarini takomillashtiradi;
+
+korrupsiyaga qarshi kurashish sohasidagi davlat siyosatining asosiy yoʻnalishlarini inobatga olgan holda taʼlim muassasalarida huquqiy taʼlim va tarbiyaga, mutaxassislarni kasbiy jihatdan tayyorlash sifatini oshirishga, taʼlim dasturlarini doimiy ravishda takomillashtirib borishga qaratilgan chora-tadbirlarni ishlab chiqadi va amalga oshiradi;
+
+taʼlim tashkilotlarini (bundan qoʻshimcha taʼlim xizmatlarini koʻrsatuvchi nodavlat taʼlim tashkilotlari mustasno) attestatsiyadan va davlat akkreditatsiyasidan, kompleks va maxsus davlat akkreditatsiyasidan, shuningdek taʼlim tashkilotlarining pedagog kadrlarini attestatsiyadan oʻtkazadi;
+
+taʼlim tashkilotlarida taʼlim-tarbiya jarayonining sifati monitoringini amalga oshiradi;
+
+maktabgacha, umumiy oʻrta, oʻrta maxsus, professional va qoʻshimcha taʼlim tashkilotlarining pedagog xodimlariga lavozimlar va malaka toifalarini berish jarayoni ustidan nazoratni amalga oshiradi, shuningdek unda ishtirok etadi;
+
+oʻquv adabiyotlarini tayyorlash va nashr qilishni tashkil etadi (bundan moliyaviy mustaqillik berilgan davlat oliy taʼlim tashkilotlari mustasno);
+
+oʻzlashtirishni baholashga, oʻquv jarayonini, taʼlim oluvchilarning yakuniy davlat attestatsiyasini tashkil etishga oid normativ-huquqiy hujjatlarni tasdiqlaydi, shuningdek eksternat tartibida taʼlim oluvchilarning toifalarini belgilaydi;
+
+nodavlat taʼlim tashkilotlariga litsenziyalar beradi, faoliyatini xabardor qilish tartibida amalga oshiradigan shaxslardan xabarnomalar qabul qiladi va ularning reyestrini yuritadi;
+
+taʼlim tashkilotlarining reytingini aniqlaydi;
+
+davlat oliy taʼlim tashkilotlarining rektorlarini tayinlash toʻgʻrisida Oʻzbekiston Respublikasi Vazirlar Mahkamasiga takliflar kiritadi;
+
+taʼlim tashkilotlarining rahbar va pedagog kadrlarini tayyorlashni, qayta tayyorlashni hamda ularning malakasini oshirishni tashkil etadi;
+
+taʼlim tashkilotlarida moddiy-texnika resurslaridan foydalanishga doir talablarni ishlab chiqadi;
+
+oʻrta maxsus, professional va oliy taʼlim tashkilotlariga nisbatan moddiy-texnik, infratuzilmaviy va parametrik talablarni belgilaydi;
+
+oʻrta maxsus, professional va oliy taʼlim tashkilotlari uchun darsliklar va oʻquv qoʻllanmalarini tayyorlash hamda nashr etish tartibini, shuningdek ularni yetkazib berishga va ulardan taʼlim tashkilotlarida foydalanishga qoʻyiladigan talablarni belgilaydi;
+
+taʼlim toʻgʻrisidagi qonunchilikning aniqlangan buzilishlari toʻgʻrisida tegishli respublika ijro etuvchi hokimiyat organlariga va taʼlim tashkilotlariga taqdimnomalar kiritadi;
+
+taʼlim sohasidagi normativ-huquqiy hujjatlarni ishlab chiqishda ishtirok etadi;
+
+taʼlim sohasida xalqaro hamkorlikni amalga oshiradi.
+
+Taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari qonunchilikka muvofiq boshqa vakolatlarni ham amalga oshirishi mumkin.
+
+Qasddan sodir etilgan jinoyat uchun ilgari sudlangan shaxslar taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlarining hamda ular hududiy boʻlinmalarining rahbarlik lavozimlariga tayinlanishi taqiqlanadi.
+
+27-modda. Mahalliy davlat hokimiyati organlarining taʼlim sohasidagi vakolatlari
+
+Mahalliy davlat hokimiyati vakillik organlari taʼlim sohasidagi vakolatli davlat boshqaruvi organlari bilan kelishilgan holda davlat taʼlim muassasalarini tashkil etadi, qayta tashkil etadi va tugatadi, bundan respublika tasarrufidagi taʼlim muassasalari mustasno.
+
+Mahalliy ijro etuvchi hokimiyat organlari:
+
+oʻz vakolatlari doirasida tegishli hududda davlat taʼlim muassasalari uchun moliyalashtirish hajmini belgilaydi;
+
+fuqarolarning oʻzini oʻzi boshqarish organlari, fuqarolik jamiyati institutlari bilan taʼlim tashkilotlarini rivojlantirish masalalari yuzasidan hamkorlik qiladi;
+
+davlat umumiy oʻrta taʼlim muassasalariga biriktirilgan hududlarni (mikrouchastkalarni) belgilaydi;
+
+taʼlim sohasida xalqaro hamkorlikni amalga oshirishda taʼlim tashkilotlariga koʻmaklashadi;
+
+taʼlim oluvchilar uchun sifatli taʼlimni, tarbiyani taʼminlash, ularning isteʼdodini shakllantirish va namoyon etish maqsadida joylarda ularga zarur sharoitlar yaratish boʻyicha dasturlarni ishlab chiqadi;
+
+oʻz vakolatlari doirasida taʼlim sohasidagi davlat-xususiy sheriklikni rivojlantiradi va nodavlat taʼlim tashkilotlari tarmogʻini kengaytirishga koʻmaklashadi;
+
+umumiy oʻrta taʼlim tashkilotlari bitiruvchilari bandligini taʼminlashga koʻmaklashadi.
+
+Mahalliy davlat hokimiyati organlari qonunchilikka muvofiq boshqa vakolatlarni ham amalga oshirishi mumkin.
+
+28-modda. Taʼlim tashkilotini boshqarish
+
+Taʼlim tashkilotini boshqarishni tegishincha quyidagilar amalga oshiradi:
+
+pedagogik kengash;
+
+kuzatuv (vasiylik) kengashi;
+
+oliy taʼlim tashkilotining kengashi;
+
+taʼlim tashkilotining rahbari.
+
+Taʼlim tashkilotlarida jamoatchilik boshqaruvi organlari tashkil etilishi mumkin.
+
+Taʼlim tashkilotlarini boshqarishda va kadrlar tayyorlashda kadrlar talabgorlari ishtirok etadi.
+
+Qasddan sodir etilgan jinoyat uchun ilgari sudlangan shaxslar taʼlim tashkilotlarining rahbarlik lavozimlariga tayinlanishi mumkin emas.
+
+4-bob. Taʼlim faoliyatini tashkil etish va uning nazoratini amalga oshirish
+
+29-modda. Taʼlim tashkilotlarining huquqiy maqomi
+
+Oʻzbekiston Respublikasining taʼlim tashkilotlari va ularning filiallari, shuningdek xorijiy davlatlar taʼlim tashkilotlarining filiallari yuridik shaxs maqomi bilan tashkil etiladi.
+
+Oilaviy nodavlat maktabgacha taʼlim tashkiloti shaklidagi taʼlim xizmatlari yakka tartibdagi tadbirkorlar sifatida roʻyxatga olingan jismoniy shaxslar tomonidan amalga oshiriladi.
+
+Nodavlat taʼlim tashkilotlari litsenziya olingan kundan eʼtiboran taʼlim faoliyati bilan shugʻullanishga haqli bundan ushbu Qonunning 57¹-moddasida nazarda tutilgan hollar mustasno.
+
+Taʼlim tashkilotlari oʻz faoliyatini ustav va (yoki) boshqa taʼsis hujjatlari asosida yuritadi.
+
+Taʼlim tashkilotlari oʻquv-tarbiya va oʻquv-ilmiy-ishlab chiqarish majmualariga birlashishga haqli.
+
+Taʼlim tashkilotlarida siyosiy partiyalarning tashkiliy tuzilmalarini tashkil etishga yoʻl qoʻyilmaydi.
+
+30-modda. Taʼlim tashkilotlarini tashkil etish, qayta tashkil etish va tugatish
+
+Davlat oliy taʼlim, oʻrta maxsus, professional taʼlim muassasalari va ularning filiallari, shuningdek davlat ishtirokidagi oliy, oʻrta maxsus, professional taʼlim tashkilotlari va ularning filiallari Oʻzbekiston Respublikasi Prezidentining yoki Oʻzbekiston Respublikasi Vazirlar Mahkamasining qarorlari bilan tashkil etiladi.
+
+Iqtisodiyotning va ijtimoiy sohaning oliy maʼlumotli malakali kadrlarga boʻlgan ehtiyojlarini, shuningdek aholining oliy taʼlim olishga boʻlgan ehtiyojini qanoatlantirish maqsadida mamlakat hududida xorijiy oliy taʼlim tashkilotlarining filiallari (markazlari, taʼlim kampuslari) va boshqa boʻlinmalari tashkil etilishi mumkin.
+
+Xorijiy oliy taʼlim tashkilotlarining boʻlinmalari Oʻzbekiston Respublikasida yuridik shaxs maqomi bilan tashkil etiladi.
+
+Xorijiy oliy taʼlim tashkilotlarining, shuningdek xalqaro tashkilotlarning taʼlim muassasalari filiallari (markazlari, taʼlim kampuslari) va boshqa boʻlinmalari faoliyatini tashkil etish masalalari boʻyicha Oʻzbekiston Respublikasining xalqaro shartnomalariga muvofiq Oʻzbekiston Respublikasi Prezidentining yoki Vazirlar Mahkamasining qarorlari qabul qilinishi mumkin.
+
+Kadrlarni qayta tayyorlash va ularning malakasini oshirish boʻyicha davlat taʼlim tashkilotlari:
+
+Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan institutlar va markazlar shaklida;
+
+tegishli vazirliklar va idoralar tomonidan Oʻzbekiston Respublikasi Oliy taʼlim, fan va innovatsiyalar vazirligi bilan kelishilgan holda oliy taʼlim tashkilotlarining fakultetlari va kurslari shaklida tashkil etiladi.
+
+Davlat umumiy oʻrta va qoʻshimcha taʼlim muassasalari:
+
+respublika boʻysunuvida vazirliklar va idoralar tomonidan Qoraqalpogʻiston Respublikasi Vazirlar Kengashi, viloyatlar va Toshkent shahar hokimliklari bilan kelishgan holda;
+
+Qoraqalpogʻiston Respublikasi, viloyatlar va Toshkent shahri boʻysunuvida tegishincha Qoraqalpogʻiston Respublikasi Vazirlar Kengashi, viloyatlar va Toshkent shahar hokimliklari tomonidan taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari bilan kelishilgan holda;
+
+tumanlar va shaharlar boʻysunuvida tumanlar va shaharlar hokimliklari tomonidan taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari bilan kelishilgan holda tashkil etiladi.
+
+Nodavlat taʼlim muassasalarini tashkil etish ularning taʼsischilari tomonidan amalga oshiriladi.
+
+Taʼlim tashkilotlarini qayta tashkil etish va tugatish qonunchilikda belgilangan tartibda amalga oshiriladi.
+
+Taʼlim tashkilotlarini tashkil etish, qayta tashkil etish va tugatish toʻgʻrisidagi maʼlumotlar davlat statistika organlariga, Oʻzbekiston Respublikasi Maktabgacha va maktab taʼlimi vazirligiga, Oliy taʼlim, fan va innovatsiyalar vazirligiga hamda Kambagʻallikni qisqartirish va bandlik vazirligining hududiy organlariga taqdim etiladi.
+
+31-modda. Nodavlat taʼlim tashkilotlari
+
+Nodavlat taʼlim tashkilotlari oʻz faoliyatini litsenziya asosida amalga oshiradi, bundan qoʻshimcha taʼlimni, kadrlarni qayta tayyorlash va ularning malakasini oshirishni amalga oshiruvchi taʼlim tashkilotlari mustasno.
+
+Nodavlat taʼlim tashkilotlari litsenziya talablariga va shartlariga muvofiq taʼlim xizmatlari koʻrsatadi.
+
+Davlat taʼlim standartlari va davlat taʼlim talablariga muvofiq taʼlim xizmatlarini koʻrsatuvchi nodavlat taʼlim tashkilotlari bitiruvchilarga davlat tomonidan tasdiqlangan namunadagi taʼlim toʻgʻrisidagi hujjatlarni beradi.
+
+Kadrlar malakasini oshirish va ularni qayta tayyorlash boʻyicha nodavlat taʼlim xizmatlarini koʻrsatuvchi taʼlim tashkilotlari tomonidan bitiruvchilarga davlat tomonidan tasdiqlangan namunadagi taʼlim toʻgʻrisidagi hujjat berilishi mumkin. Bunda kadrlar malakasini oshirish va ularni qayta tayyorlash boʻyicha nodavlat taʼlim xizmatlarini koʻrsatuvchi taʼlim tashkilotlari belgilangan tartibda attestatsiyadan va davlat akkreditatsiyasidan oʻtishi kerak.
+
+Mustaqil ishlab chiqilgan va litsenziyada koʻrsatilgan oʻquv dasturlari boʻyicha taʼlim xizmatlari koʻrsatadigan nodavlat taʼlim tashkilotlari bitiruvchilarga Oʻzbekiston Respublikasida tan olinadigan taʼlim toʻgʻrisidagi hujjatlarni beradi.
+
+Nodavlat taʼlim tashkilotlari normativ-huquqiy hujjatlar talablariga muvofiq taʼlim-tarbiya jarayonini tashkil etish uchun zarur shart-sharoitlar yaratish va yuqori kasbiy mahoratga ega boʻlgan pedagog kadrlar va boshqa kadrlarni jalb qilish boʻyicha chora-tadbirlar koʻradi.
+
+Nodavlat taʼlim tashkilotlari tomonidan ishlab chiqilgan oʻquv dasturlari boʻyicha oʻqitish taʼlim oluvchi yoxud uning ota-onasi yoki boshqa qonuniy vakillari va nodavlat taʼlim tashkiloti oʻrtasida tuziladigan, oʻqitish muddatlari, shartlari va toʻlovlari, tomonlarning huquq va majburiyatlari hamda boshqa shartlar belgilanadigan shartnoma asosida amalga oshiriladi.
+
+32-modda. Taʼlim tashkilotining ustavi
+
+Taʼlim tashkilotining ustavi taʼlim turlarining oʻziga xos xususiyatlarini inobatga olgan holda ishlab chiqiladi.
+
+Taʼlim tashkilotining ustavida, qoida tariqasida, quyidagilar koʻrsatiladi:
+
+taʼlim turi va shakli;
+
+taʼlim tashkilotining maqsad va vazifalari;
+
+oʻquv-tarbiyaviy va ilmiy-metodik ishlarni tashkil etish hamda mazmuni;
+
+taʼlim tashkilotiga qabul qilish tartibi;
+
+taʼlim tashkilotining tuzilmasi, boshqaruv organlari va jamoatchilik tuzilmalari;
+
+taʼlim oluvchilar, pedagog kadrlar, oʻquv-tarbiya ishlari boʻyicha xodimlar, maʼmuriy-boshqaruv xodimlarining maqomi, huquqlari va majburiyatlari;
+
+taʼlim tashkilotining mol-mulki va vositalari;
+
+taʼlim tashkilotini tashkil etish, qayta tashkil etish va tugatish tartibi.
+
+Taʼlim tashkilotining namunaviy ustavi:
+
+umumiy oʻrta taʼlim tashkilotlari, Prezident, ijod va ixtisoslashtirilgan maktablar hamda bolalar uchun qoʻshimcha taʼlim tashkilotlari uchun — Oʻzbekiston Respublikasi Maktabgacha va maktab taʼlimi vazirligi tomonidan;
+
+(32-modda uchinchi qismining uchinchi xatboshisi chiqarilgan.)
+
+oliy taʼlim tashkilotlari huzuridagi ixtisoslashtirilgan maktablar, oʻrta maxsus, professional va oliy taʼlim tashkilotlari, shuningdek katta yoshdagilar uchun qoʻshimcha taʼlim tashkilotlari uchun — Oʻzbekiston Respublikasi Oliy taʼlim, fan va innovatsiyalar vazirligi tomonidan;
+
+kadrlarni qayta tayyorlash va ularning malakasini oshirish boʻyicha taʼlim tashkilotlari uchun — tegishli vazirliklar va idoralar tomonidan ishlab chiqiladi.
+
+Taʼlim tashkilotining ustavi taʼlim tashkilotining taʼsischilari tomonidan tasdiqlanadi va hududiy tegishlilik boʻyicha Davlat xizmatlari markazi tomonidan roʻyxatga olinadi.
+
+33-modda. Taʼlim berish tili
+
+Taʼlim tashkilotlarida oʻqitish tilidan foydalanish tartibi “Davlat tili haqida”gi Oʻzbekiston Respublikasi Qonuni bilan tartibga solinadi.
+
+34-modda. Davlat taʼlim standartlari va davlat taʼlim talablari
+
+Davlat taʼlim standartlari umumiy oʻrta, oʻrta maxsus, professional hamda oliy taʼlim mazmuni va sifatiga oid talablarni belgilaydi.
+
+Davlat taʼlim talablari:
+
+qoʻshimcha taʼlim, oliy taʼlimdan keyingi taʼlim, shuningdek kadrlarni qayta tayyorlash va ularning malakasini oshirish mazmunini;
+
+taʼlim tuzilmasini va taʼlimni amalga oshirish shartlarini;
+
+taʼlim oluvchilarning jismoniy, shaxsiy, intellektual, ilmiy va kasbga oid sifatlari toʻgʻrisidagi normalarni belgilaydi.
+
+Maktabgacha taʼlim tashkilotlarida maktabgacha taʼlim va tarbiyaning davlat standarti qoʻllaniladi.
+
+Davlat taʼlim standartlarini va (yoki) davlat taʼlim talablarini bajarish barcha taʼlim tashkilotlari uchun majburiydir, bundan ushbu moddaning beshinchi qismida nazarda tutilgan hollar mustasno.
+
+Oʻrta maxsus, professional, oliy taʼlim xizmatlarini koʻrsatuvchi hamda faoliyatini xabardor qilish tartibida amalga oshiradigan nodavlat taʼlim tashkilotlari mustaqil ishlab chiqilgan va litsenziyada yoki xabarnomada koʻrsatilgan taʼlim dasturlari asosida taʼlim faoliyatini amalga oshirishi mumkin.
+
+Oʻzbekiston Respublikasi Oliy taʼlim, fan va innovatsiyalar vazirligi davlat taʼlim standartlari, malaka talablari, oliy taʼlim, oʻrta maxsus taʼlim hamda professional taʼlimning oʻquv rejalari va oʻquv dasturlari ishlab chiqilishini taʼminlaydi. Ushbu maqsadlar uchun Oʻzbekiston Respublikasi Oliy taʼlim, fan va innovatsiyalar vazirligi tayanch davlat oliy taʼlim va professional taʼlim tashkilotlarini belgilaydi.
+
+Tayanch davlat oliy taʼlim va professional taʼlim muassasalari kadrlarning talabgorlari ishtirokida davlat taʼlim standartlarini, malaka talablarini, oʻquv rejalari va oʻquv dasturlarini tayyorlashni amalga oshiradi. Davlat taʼlim standartlari kasbiy standartlar asosida ishlab chiqiladi.
+
+Oʻzbekiston Respublikasi Maktabgacha va maktab taʼlimi vazirligi umumiy oʻrta taʼlimning davlat taʼlim standartlari ishlab chiqilishini taʼminlaydi.
+
+Oliy, professional, oʻrta maxsus va umumiy oʻrta taʼlimning davlat taʼlim standartlari, malaka talablari, oʻquv rejalari va oʻquv dasturlari tegishincha Oʻzbekiston Respublikasi Oliy taʼlim, fan va innovatsiyalar vazirligi hamda Maktabgacha va maktab taʼlimi vazirligi tomonidan tasdiqlanadi. Tegishli vakolatlar berilgan boshqa vazirliklar va idoralar davlat taʼlim standartlarini tegishincha Oʻzbekiston Respublikasi Oliy taʼlim, fan va innovatsiyalar vazirligi hamda Maktabgacha va maktab taʼlimi vazirligi bilan kelishilgan holda ishlab chiqadi hamda tasdiqlaydi.
+
+Davlat taʼlim talablari taʼlim sohasidagi tegishli vakolatli davlat boshqaruvi organlari tomonidan ishlab chiqiladi va tasdiqlanadi.
+
+Jismoniy, aqliy, sensor (sezgi) yoki ruhiy nuqsonlari boʻlgan shaxslarni oʻqitish maxsus oʻquv dasturlari asosida amalga oshiriladi.
+
+Oʻzbekiston Respublikasi Oliy taʼlim, fan va innovatsiyalar vazirligi davlat oliy taʼlim tashkilotlariga mustaqil ishlab chiqilgan va tasdiqlangan oʻquv dasturlari, malaka talablari hamda oʻquv rejalari asosida taʼlim xizmatlari koʻrsatish boʻyicha vakolatlarni berishi mumkin.
+
+35-modda. Taʼlim jarayoniga oʻquv rejalari va oʻquv dasturlarini joriy etish
+
+Oʻquv rejalari va oʻquv dasturlari tegishli taʼlim bosqichlarining maqsad hamda vazifalari asosida ishlab chiqiladi.
+
+Tegishli davlat taʼlim tashkilotlaridagi oʻquv rejalari va oʻquv dasturlarining mazmuni, ularni ishlab chiqish hamda joriy etish tartibi Oʻzbekiston Respublikasi Maktabgacha va maktab taʼlimi vazirligi hamda Oʻzbekiston Respublikasi Oliy taʼlim, fan va innovatsiyalar vazirligi tomonidan belgilanadi.
+
+Moliyaviy mustaqillik berilgan davlat oliy taʼlim tashkilotlari oʻquv rejalari va oʻquv dasturlarini kasbiy standartlar asosida mustaqil tasdiqlashga, shuningdek taʼlim tilini hamda bakalavriat taʼlim yoʻnalishlarining va magistratura mutaxassisliklarining xususiyatlarini inobatga olgan holda taʼlim shaklini belgilashga haqli.
+
+Umumtaʼlim fanlarining oʻquv dasturlari shaxsni har tomonlama kamol toptirishga, taʼlim oluvchilarda bilim, malaka, koʻnikmalarni, saviyani shakllantirishga va ularning qobiliyatini rivojlantirishga qaratilgan boʻlishi kerak.
+
+Kasbga oid fanlarning oʻquv dasturlari taʼlim oluvchilar tomonidan tegishli kasblar va mutaxassisliklarni egallashga qaratilgan.
+
+Taʼlim jarayoniga oʻquv rejalari va oʻquv dasturlarini joriy etish taʼlim tashkilotlari tomonidan amalga oshiriladi.
+
+Oʻquv rejalari va oʻquv dasturlarini joriy etish jarayonida zamonaviy pedagogik texnologiyalar, oʻqitishning innovatsion shakllari va usullari, axborot-kommunikatsiya texnologiyalari qoʻllaniladi.
+
+Taʼlim jarayoniga oʻquv rejalari va oʻquv dasturlarini joriy etish chogʻida taʼlim tashkilotlari kredit-modul tizimiga asoslangan oʻqitish texnologiyalaridan foydalanishi mumkin.
+
+Oʻquv rejasida, qoida tariqasida, taʼlim jarayonining jadvali, oʻqitishning boshlanishi, muddati va davriyligi, oʻquv yillari, choraklar, semestrlar, amaliyot, taʼtillar hamda attestatsiya, ajratilgan haftalar soni, oʻrganiladigan fanlar (modullar) va ularga ajratilgan soatlar (kreditlar) hamda boshqa zarur parametrlar aks ettiriladi.
+
+Professional va oliy taʼlim, kadrlarni qayta tayyorlash va ularning malakasini oshirishga doir oʻquv rejalarda taʼlim oluvchilar uchun amaliyot oʻtash nazarda tutiladi.
+
+Taʼlim oluvchilarning amaliyotni oʻtash tartibi va uni tashkil etish taʼlim tashkilotlari tomonidan mustaqil belgilanadi.
+
+Professional va oliy taʼlimga doir oʻquv rejalari davlat taʼlim standartlariga muvofiq mutaxassislik fanlaridan, shuningdek umumkasbiy, matematika, tabiiy-ilmiy, gumanitar va qoʻshimcha fanlardan shakllantiriladi.
+
+Oʻquv rejalariga davlat boshqaruvi organlarining topshiriqlariga asosan va ushbu Qonunda nazarda tutilmagan boshqa yoʻl bilan qoʻshimcha fanlarni kiritishga yoʻl qoʻyilmaydi.
+
+36-modda. Taʼlim sohasidagi eksperimental va innovatsion faoliyat
+
+Taʼlim sohasidagi eksperimental va innovatsion faoliyat taʼlimni modernizatsiya qilish maqsadida amalga oshiriladi hamda yangi taʼlim texnologiyalari va resurslarini ishlab chiqishga, ularni sinovdan oʻtkazishga hamda taʼlim jarayoniga joriy etishga qaratilgan. Eksperimental va innovatsion faoliyatni amalga oshirish tartibi va shartlari Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+
+Taʼlim sohasidagi vakolatli davlat boshqaruvi organlari va mahalliy davlat hokimiyati organlari innovatsion oʻquv dasturlari va loyihalarini amalga oshirish hamda ularning natijalarini amaliyotga joriy etish uchun oʻz vakolatlari doirasida shart-sharoitlar yaratadi.
+
+Iqtisodiy rivojlanish va innovatsion faoliyat ehtiyojlaridan kelib chiqqan holda, davlat tomonidan oliy taʼlim tashkilotlari olimlarining ilmiy-tadqiqot ishlari natijalarini ishlab chiqarish jarayoniga joriy etish uchun tegishli shart-sharoitlar, shuningdek oliy taʼlim tashkilotlari taʼlim jarayonining yanada takomillashtirilgan shakllariga bosqichma-bosqich oʻtishi uchun imkoniyatlar yaratiladi.
+
+Taʼlim tashkilotlari eksperimental va innovatsion faoliyatda masofaviy taʼlim texnologiyalaridan foydalanishi mumkin.
+
+37-modda. Taʼlim tashkilotlari faoliyatining ochiqligi va shaffofligi
+
+Taʼlim tashkilotlari faoliyatining ochiqligi va shaffofligi ularning rasmiy veb-saytlarida Internet jahon tarmogʻida joylashtiriladigan taʼlim tashkilotlari faoliyati toʻgʻrisidagi ochiq axborot resurslari bilan taʼminlanadi.
+
+Taʼlim tashkilotlari rasmiy veb-saytlarida quyidagilarni joylashtiradi:
+
+taʼlim tashkilotining ustavi;
+
+taʼlim berish tillari haqida maʼlumot;
+
+davlat taʼlim standartlari, davlat taʼlim talablari;
+
+taʼlim faoliyatining moddiy-texnika taʼminoti haqida maʼlumot;
+
+litsenziya (nodavlat taʼlim tashkilotlari uchun);
+
+taʼlim tashkilotining reytingi;
+
+taʼlim faoliyatini amalga oshirish uchun davlat akkreditatsiyasi toʻgʻrisidagi sertifikat;
+
+ilmiy tadqiqotlar yoʻnalishlari va natijalari, shuningdek ularni amalga oshirish uchun ilmiy-tadqiqot bazasi toʻgʻrisidagi maʼlumot (oliy taʼlim uchun);
+
+taʼlim oluvchilarga stipendiyalar berish tartibi, ularga ijtimoiy yordam koʻrsatishning mavjudligi va shartlari toʻgʻrisidagi maʼlumot;
+
+vaqtincha yashash joylarining mavjudligi va yashash joylarining soni, shuningdek toʻlov miqdori toʻgʻrisidagi maʼlumot;
+
+pedagoglar va taʼlim oluvchilarning soni, shuningdek pedagoglarning ilmiy salohiyati toʻgʻrisidagi maʼlumot.
+
+Taʼlim tashkilotlarining rasmiy veb-saytlariga joylashtiriladigan axborotning ishonchligini taʼminlash uchun taʼlim tashkilotlarining rahbarlari shaxsan javobgardir.
+
+Ayrim taʼlim tashkilotlarining faoliyati toʻgʻrisidagi axborotdan foydalanish qonunchilikda belgilangan hollarda va tartibda cheklanishi mumkin.
+
+38-modda. Taʼlim tashkilotlariga oʻqishga qabul qilish
+
+Taʼlim tashkilotlariga oʻqishga qabul qilish barcha talabgorlar uchun taʼlim olishga doir teng imkoniyatlarning taʼminlanishi prinsipi asosida amalga oshiriladi, shaxslarning ayrim toifalari bundan mustasno, ularga qonunchilikka muvofiq imtiyozlar berilishi mumkin.
+
+Taʼlim tashkilotlari talabgorlarni va (yoki) ularning ota-onasini yoki boshqa qonuniy vakillarini ustav, litsenziya yoki xabarnoma qabul qilinganligi toʻgʻrisidagi tasdiqnoma (nodavlat taʼlim tashkilotlari uchun), davlat akkreditatsiyasi toʻgʻrisidagi sertifikat (bundan qoʻshimcha nodavlat taʼlim xizmatlarini koʻrsatuvchi nodavlat taʼlim tashkilotlari mustasno), oʻquv dasturi hamda taʼlim faoliyatini tartibga soluvchi boshqa hujjatlar, oʻquvchilarning huquqlari va majburiyatlari bilan tanishtirishi shart.
+
+Jismoniy, aqliy, sensor (sezgi) yoki ruhiy nuqsonlari boʻlgan bolalar oʻqishga oʻz ota-onasining yoki boshqa qonuniy vakillarining roziligiga va psixologik-tibbiy-pedagogik komissiyaning xulosasiga binoan qabul qilinadi.
+
+Ayrim taʼlim tashkilotlariga (oliy taʼlim tashkilotlariga, akademik litseylarga, Prezident, ijod, ixtisoslashtirilgan maktablar va boshqalarga) oʻqishga qabul qilish tanlov asosida amalga oshiriladi. Taʼlim tashkilotlariga tanlov asosida oʻqishga qabul qilish chogʻida tanlov ishtirokchilariga tanlovni oʻtkazish tartibi toʻgʻrisidagi axborot taqdim etiladi.
+
+Davlat oliy taʼlim va professional taʼlim tashkilotlariga oʻqishga qabul qilish davlat granti va (yoki) toʻlov-shartnoma asosida amalga oshiriladi.
+
+Davlat taʼlim muassasalari va tashkilotlariga oʻqishga qabul qilish tartibi Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+
+Nodavlat taʼlim tashkilotlariga oʻqishga qabul qilish tartibi taʼlim tashkilotlariga oʻqishga qabul qilishga oid amaldagi normativ-huquqiy hujjatlarda nazarda tutilgan qoidalarni inobatga olgan holda, ushbu taʼlim tashkilotlari tomonidan belgilanadi.
+
+Chet ellik fuqarolarni Oʻzbekiston Respublikasining davlat taʼlim muassasalariga qabul qilish toʻlov-shartnoma asosida (bundan davlat granti ajratilgan hollar mustasno) amalga oshiriladi.
+
+Oliy taʼlim tashkilotlariga davlat granti asosida oʻqishga qabul qilish parametrlari Oʻzbekiston Respublikasi Prezidenti tomonidan belgilanadi.
+
+Oliy taʼlim tashkilotlariga oʻqishga qabul qilish chogʻida imtiyozli kontingent uchun qoʻshimcha qabul parametrlari belgilanadi.
+
+39-modda. Davlat taʼlim muassasalariga oʻqishga maqsadli qabul qilish
+
+Davlat taʼlim muassasalariga oʻqishga maqsadli qabul qilish tegishli hududlarning, sohalar va tarmoqlarning kadrlarga boʻlgan ehtiyojlaridan kelib chiqqan holda ular uchun belgilangan taʼlim oluvchilarni qabul qilish parametrlari doirasida amalga oshiriladi.
+
+Davlat taʼlim muassasalariga oʻqishga maqsadli qabul qilish kadrlar buyurtmachilari, davlat taʼlim muassasalari va fuqarolar oʻrtasida tuziladigan shartnomalar asosida amalga oshiriladi.
+
+Davlat taʼlim muassasalariga maqsadli qabul qilish tartibida oʻqishga kirish umumiy asoslarda tanlov natijalariga muvofiq amalga oshiriladi.
+
+40-modda. Taʼlim toʻgʻrisidagi hujjat
+
+Akkreditatsiya qilingan taʼlim tashkilotlarining davlat taʼlim standartlariga va davlat taʼlim talablariga muvofiq taʼlim olgan bitiruvchilariga davlat tomonidan tasdiqlangan namunadagi taʼlim toʻgʻrisidagi hujjat (shahodatnoma, diplom, sertifikat, guvohnoma) beriladi. Davlat tomonidan tasdiqlangan namunadagi taʼlim toʻgʻrisidagi hujjat oilada taʼlim olgan yoki mustaqil taʼlim olgan hamda akkreditatsiya qilingan davlat taʼlim muassasalarining tegishli oʻquv dasturlari boʻyicha eksternat tartibida yakuniy va davlat attestatsiyasidan oʻtgan shaxslarga ham beriladi.
+
+Oʻrta maxsus taʼlim, professional taʼlim hamda oliy taʼlim toʻgʻrisidagi diplomga oʻzlashtirilgan fanlar roʻyxati, ularning hajmlari va fanlar boʻyicha baholari yozilgan varaqa ilova qilinadi.
+
+Tegishli ilmiy darajani olish uchun dissertatsiya himoya qilgan shaxslarga falsafa doktori (Doctor of Philosophy (PhD) yoki fan doktori (Doctor of Science (DSc) ilmiy darajasi beriladi va davlat tomonidan tasdiqlangan namunadagi diplom topshiriladi.
+
+Oʻzbekiston Respublikasining va xorijiy davlatlarning hukumatlari oʻrtasidagi ikki tomonlama bitimlar asosida taʼlim toʻgʻrisidagi hujjatlarni oʻzaro tan olish amalga oshirilishi mumkin.
+
+Uzluksiz taʼlimning tegishli turini tamomlamagan shaxslarga belgilangan namunadagi maʼlumotnoma beriladi.
+
+Davlat tomonidan tasdiqlangan namunadagi taʼlim toʻgʻrisidagi hujjat, shuningdek nodavlat taʼlim tashkilotlari tomonidan beriladigan Oʻzbekiston Respublikasida tan olinadigan taʼlim toʻgʻrisidagi hujjat uzluksiz taʼlimning keyingi turi (darajasi) boʻyicha oʻqishni davom ettirish yoki tegishli mutaxassislik va kasb boʻyicha ishlash huquqini beradi.
+
+Xorijiy davlatlarning va Oʻzbekiston Respublikasining oliy taʼlim tashkilotlari oʻrtasida tuzilgan shartnoma asosida ularning bitiruvchilariga Oʻzbekiston Respublikasi hududida oliy maʼlumot toʻgʻrisidagi hujjat sifatida tan olinadigan ikki tomonlama diplom (Double Diploma) berilishi mumkin.
+
+41-modda. Taʼlim tashkilotlarining reytingi
+
+Taʼlim tashkilotlarining reytingi:
+
+taʼlim tashkilotlari oʻrtasida sogʻlom raqobat muhitini shakllantirish;
+
+ilmiy-pedagogik faoliyat darajasining oʻsishini va sifatining oshishini ragʻbatlantirish;
+
+pedagog xodimlarning ilmiy salohiyatidan samarali foydalanish;
+
+oʻqitish sifatining yuqori koʻrsatkichlariga erishish;
+
+mehnat bozorida talab yuqori boʻlgan malakali kadrlar tayyorlash maqsadlarida belgilanadi.
+
+Reytingni belgilash uchun taʼlim tashkiloti tomonidan taqdim etilgan maʼlumotlarning ishonchliligi uchun taʼlim tashkilotining rahbari shaxsan javobgar boʻladi.
+
+42-modda. Taʼlim tizimidagi monitoring
+
+Taʼlim tizimidagi monitoring taʼlimning holatini, taʼlim natijalarining oʻzgarishi surʼatlarini, taʼlim faoliyatini amalga oshirish uchun yaratilgan shart-sharoitlarni oʻrganish va kuzatishni, shuningdek taʼlim oluvchilarning kontingenti toʻgʻrisidagi maʼlumotlarni va boshqaruv qarorlari qabul qilinishini tahlil etishni oʻz ichiga oladi.
+
+Taʼlim tashkilotlarining monitoringi taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari va ularning hududiy boʻlinmalari tomonidan amalga oshiriladi.
+
+Taʼlim holatining tahlili va uni rivojlantirish istiqbollari toʻgʻrisidagi axborot taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlarining va ular hududiy boʻlinmalarining, shuningdek taʼlim tashkilotlarining rasmiy veb-saytlariga joylashtiriladi.
+
+Taʼlim tizimidagi maʼlumotlar jumlasiga rasmiy statistika maʼlumotlari, taʼlim tizimi monitoringi natijalari, taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlarining va ular hududiy boʻlinmalarining, mahalliy davlat hokimiyati organlarining hamda taʼlim tashkilotlarining maʼlumotlari kiradi.
+
+43-modda. Taʼlim sohasidagi davlat nazorati
+
+Taʼlim sohasidagi davlat nazorati berilayotgan taʼlimning mazmuni va sifati davlat taʼlim standartlariga, davlat taʼlim talablari va oʻquv dasturlariga, shuningdek ushbu Qonun talablariga muvofiqligini aniqlash yoʻli bilan amalga oshiriladi.
+
+Taʼlim tashkilotlari taʼlim sifati ustidan nazoratni amalga oshirishda taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlariga koʻmaklashadi.
+
+Taʼlim tashkilotlari tomonidan berilayotgan taʼlimning mazmuni va sifati taʼlim toʻgʻrisidagi qonunchilikka nomuvofiqligi aniqlangan hollarda taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari nomuvofiqlikni bartaraf etish yuzasidan ularga taqdimnoma kiritadi. Aniqlangan nomuvofiqlik bartaraf etilmagan taqdirda taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari taʼlim tashkilotining davlat akkreditatsiyasi toʻgʻrisidagi sertifikatini qonunchilikka muvofiq bekor qilishga haqli.
+
+Taʼlim sifati ustidan nazorat qilish vakolatlariga ega boʻlmagan organlar tomonidan taʼlim tashkilotlarining taʼlim sifatini, taʼlim jarayoni tashkil etilishini, pedagog xodimlarining mehnat faoliyatini, taʼlim oluvchilarining oʻzlashtirishini tekshirishga yoʻl qoʻyilmaydi.
+
+Taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari Oʻzbekiston Respublikasi Prezidenti huzuridagi Tadbirkorlik subyektlarining huquqlari va qonuniy manfaatlarini himoya qilish boʻyicha vakilni xabardor qilgan holda nodavlat taʼlim tashkilotlarida taʼlim sifati, shuningdek litsenziyalash, ruxsat berish va xabardor qilish talablari hamda shartlariga rioya etilishi ustidan nazorat va monitoringni amalga oshiradi.
+
+(5-bob oʻz kuchini yoʻqotgan.)
+
+6-bob. Taʼlim oluvchilarning, ular ota-onasining hamda boshqa qonuniy vakillarining huquq va majburiyatlari
+
+47-modda. Taʼlim oluvchilarning huquqlari
+
+Taʼlim oluvchilar quyidagi huquqlarga ega:
+
+bepul asosda umumiy oʻrta, oʻrta maxsus taʼlim va boshlangʻich professional taʼlim olish;
+
+yashash joyidagi (mikrohududdagi) davlat umumiy oʻrta taʼlim muassasasiga qabul qilinish;
+
+taʼlim olish shakllarini erkin tanlash;
+
+davlat taʼlim standartlari, davlat taʼlim talablari va oʻquv dasturlariga muvofiq sifatli taʼlim olish;
+
+taʼlim olish uchun oʻzining ruhiy xususiyatlari va fiziologik rivojlanishi inobatga olingan holda zarur shart-sharoitlarga ega boʻlish, shuningdek bepul psixologik-tibbiy xizmatlardan foydalanish;
+
+davlat taʼlim muassasasi tomonidan belgilangan tartibga muvofiq, professional taʼlim va oliy taʼlimning davlat taʼlim standartlari talablariga binoan ishlab chiqilgan, oʻzi oladigan taʼlimning mazmunini shakllantirishda ishtirok etish;
+
+pedagog xodimlar va taʼlim-tarbiya jarayonining boshqa ishtirokchilari tomonidan hayoti va sogʻligʻiga qilinadigan har qanday jismoniy hamda ruhiy zoʻravonlikdan, shaxsi haqoratlanishidan himoyalanish;
+
+taʼlim olish davrida dam olish va boshqa ijtimoiy ehtiyojlar uchun taʼtillar olish;
+
+akademik taʼtillar va stipendiyalar olish, oʻqishni tiklash va oʻqishini boshqa taʼlim tashkilotlariga, bir taʼlim shaklidan, kasbdan, taʼlim yoʻnalishidan, mutaxassisligidan boshqasiga koʻchirish;
+
+taʼlim tashkilotini boshqarishga doir masalalarni muhokama qilishda ishtirok etish;
+
+taʼlim olish jarayonida taʼlim tashkilotining oʻquv, uslubiy, ilmiy-ishlab chiqarish, madaniy, sport va maishiy obyektlari xizmatlaridan bepul foydalanish;
+
+taʼlim tashkilotining ilmiy-tadqiqot, tajriba-konstruktorlik, ilmiy-texnikaviy, eksperimental va innovatsion faoliyatida ishtirok etish.
+
+Taʼlim oluvchilar qonunchilikka muvofiq boshqa huquqlarga ham ega boʻlishi mumkin.
+
+Taʼlim tashkilotlarida taʼlim oluvchilarni taʼlim olish bilan bogʻliq boʻlmagan ishlarga jalb etish taqiqlanadi.
+
+48-modda. Taʼlim oluvchilarning majburiyatlari
+
+Taʼlim oluvchilar:
+
+oʻquv dasturlari asosida bilim, malaka va koʻnikmalarni oʻzlashtirishi, mashgʻulotlarga qatnashishi, ularga mustaqil tayyorgarlik koʻrishi, pedagog xodimlarning topshiriqlarini bajarishi;
+
+taʼlim-tarbiya jarayonining boshqa ishtirokchilariga nisbatan jismoniy va (yoki) ruhiy zoʻravonlik ishlatmasligi va ularning oʻz majburiyatlarini bajarishiga toʻsqinlik qilmasligi;
+
+ustav (taʼsis hujjati) talablariga, ichki tartib-qoidalariga, vaqtincha yashash joylari qoidalariga va taʼlim faoliyatini tashkil etish hamda amalga oshirishga oid boshqa ichki hujjatlar talablariga rioya etishi;
+
+axloqiy, maʼnaviy va jismoniy kamol topishga hamda oʻz dunyoqarashini kengaytirishga intilishi;
+
+taʼlim-tarbiya jarayoni ishtirokchilarining shaʼni, qadr-qimmati va ishchanlik obroʻsini hurmat qilishi;
+
+taʼlim tashkilotining mol-mulkini, moddiy va madaniy boyliklarini asrashi shart.
+
+Taʼlim oluvchilarning zimmasida qonunchilikka muvofiq boshqa majburiyatlar ham boʻlishi mumkin.
+
+49-modda. Taʼlim oluvchilarning kiyim-boshiga nisbatan qoʻyiladigan talablar
+
+Taʼlim tashkilotlarida (bundan oʻrta maxsus, professional va oliy taʼlim tashkilotlari mustasno) taʼlim oluvchilarning kiyim-boshiga doir talablar Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+
+Qoʻshimcha taʼlim, kadrlar malakasini oshirish va ularni qayta tayyorlash turlari boʻyicha nodavlat taʼlim xizmatlarini koʻrsatuvchi nodavlat taʼlim tashkilotlari taʼlim oluvchilarning kiyim-boshiga doir talablarni mustaqil belgilashga haqli.
+
+Taʼlim oluvchilarning ayrim toifalari Oʻzbekiston Respublikasi Davlat budjeti mablagʻlari hisobidan kiyim-bosh bilan taʼminlanadi.
+
+50-modda. Taʼlim tashkilotlarida taʼlim oluvchilarni vaqtincha yashash joylari bilan taʼminlash
+
+Kunduzgi taʼlim shaklidagi taʼlim tashkilotida taʼlim oluvchilarga, shuningdek sirtqi taʼlim shaklida yakuniy va oraliq attestatsiya davrida vaqtincha yashash joylari, ular mavjud boʻlgan taqdirda beriladi.
+
+Vaqtincha yashash joylari taʼlim oluvchilarga taʼlim tashkiloti tomonidan belgilangan tartibga muvofiq beriladi.
+
+Vaqtincha yashash joylariga muhtojlar mavjud boʻlgan hollarda, ushbu joylardan boshqa maqsadlarda foydalanishga yoʻl qoʻyilmaydi.
+
+Vaqtincha yashash joylaridan foydalanish uchun taʼlim tashkiloti bilan tuzilgan shartnomaga muvofiq haq toʻlanadi.
+
+Vaqtincha yashash joyidan foydalanganlik uchun toʻlov miqdori taʼlim tashkiloti tomonidan belgilanadi.
+
+Davlat taʼlim muassasalari ayrim turdagi taʼlim oluvchilar uchun vaqtincha yashash joyidan foydalanganlik uchun toʻlov qiymatini kamaytirishga yoki ularni toʻlovdan toʻliq ozod qilishga haqli. Yetim bolalar va ota-ona qaramogʻidan mahrum boʻlgan bolalar, shuningdek oʻqitish davrida yetim boʻlib qolgan bolalar, jismoniy, aqliy, sensor (sezgi) yoki ruhiy nuqsonlari boʻlgan bolalar (shaxslar) vaqtincha yashash joyidan foydalanganlik uchun haq toʻlashdan ozod qilinadi.
+
+51-modda. Voyaga yetmagan taʼlim oluvchilar ota-onasining hamda boshqa qonuniy vakillarining huquq va majburiyatlari
+
+Voyaga yetmagan taʼlim oluvchilarning ota-onasi va boshqa qonuniy vakillari bolaning oʻqishi, tarbiyalanishi, jismoniy, maʼnaviy va intellektual rivojlanishi uchun masʼuldir.
+
+Mahalliy ijro etuvchi hokimiyat organlari, fuqarolarning oʻzini oʻzi boshqarish organlari va taʼlim tashkilotlari voyaga yetmagan taʼlim oluvchilarni tarbiyalashda, ularning jismoniy hamda ruhiy sogʻligʻini muhofaza qilish va mustahkamlashda, shuningdek individual qobiliyatlarini rivojlantirishda ularning ota-onasiga hamda boshqa qonuniy vakillariga koʻmaklashadi.
+
+Voyaga yetmagan taʼlim oluvchilarning ota-onasi va boshqa qonuniy vakillari quyidagi huquqlarga ega:
+
+jismoniy, aqliy, sensor (sezgi) yoki ruhiy nuqsonlari boʻlgan bolalarga, shuningdek uzoq vaqt davolanishga muhtoj boʻlgan bolalarga oilada taʼlim olish imkoniyatini berish;
+
+oilada taʼlim olayotgan bolaning fikrini inobatga olgan holda uning oʻqishini taʼlimning har qanday bosqichida taʼlim tashkilotida davom ettirish toʻgʻrisida qaror qabul qilish;
+
+taʼlim tashkilotlari bilan hamkorlik qilish, taʼlim-tarbiya jarayonini takomillashtirish, moddiy-texnika bazasini rivojlantirish, taʼlim tashkilotlariga xayriya yordami koʻrsatish boʻyicha takliflar kiritish;
+
+taʼlim tashkilotining ustavi va (yoki) boshqa taʼsis hujjati, litsenziyasi, davlat akkreditatsiyasi toʻgʻrisidagi sertifikati, davlat taʼlim standartlari, davlat taʼlim talablari, malaka talablari, oʻquv rejalari va oʻquv dasturlari bilan tanishish;
+
+taʼlimning mazmuni, qoʻllanilayotgan taʼlim va tarbiya usullari, taʼlim texnologiyalari bilan, shuningdek oʻz bolalarining oʻquv fanlarini oʻzlashtirishi natijalari bilan tanishish;
+
+taʼlim oluvchilarning huquqlari va qonuniy manfaatlarini himoya qilish;
+
+taʼlim tashkilotini boshqarishga doir masalalarni muhokama qilishda ishtirok etish.
+
+Voyaga yetmagan taʼlim oluvchilarning ota-onasi va boshqa qonuniy vakillari qonunchilikka muvofiq boshqa huquqlarga ham ega boʻlishi mumkin.
+
+Voyaga yetmagan taʼlim oluvchilarning ota-onasi va boshqa qonuniy vakillari:
+
+oʻz bolalarini insonparvarlik, vatanparvarlik, mehnatsevarlik, maʼnaviy, milliy va umuminsoniy qadriyatlarni hurmat qilish ruhida tarbiyalashi;
+
+bolalarining umumiy oʻrta, oʻrta maxsus taʼlim yoki boshlangʻich professional taʼlim olishini taʼminlashi;
+
+bolalarining oʻquv mashgʻulotlariga qatnashishini taʼminlash va oʻzlashtirishi ustidan nazoratni amalga oshirish;
+
+oʻz bolalarining intellektual, maʼnaviy va jismoniy rivojlanishi uchun shart-sharoitlar yaratishi;
+
+taʼlim tashkilotining taʼlim-tarbiya jarayonini tartibga soluvchi ichki tartib-qoidalariga rioya etishi;
+
+jismoniy va yuridik shaxslar bilan munosabatlarda, shu jumladan sudda maxsus vakolatlarsiz oʻz bolalarining taʼlim sohasidagi huquqlari va qonuniy manfaatlarini himoya qilishi;
+
+taʼlim-tarbiya jarayoni ishtirokchilarining shaʼni va qadr-qimmatini hurmat qilishi shart.
+
+Voyaga yetmagan taʼlim oluvchilarning ota-onasi va boshqa qonuniy vakillari zimmasida qonunchilikka muvofiq boshqa majburiyatlar ham boʻlishi mumkin.
+
+7-bob. Taʼlim-tarbiya jarayoni ishtirokchilarini ijtimoiy himoya qilish
+
+52-modda. Taʼlim oluvchilarni ijtimoiy himoya qilish
+
+Taʼlim tashkilotlarida taʼlim oluvchilar qonunchilikka muvofiq imtiyozlar, stipendiyalar va vaqtincha yashash joylari bilan taʼminlanadi.
+
+Toʻlov-shartnoma asosida taʼlim oluvchilarga imtiyozli bank kreditlari berilishi mumkin.
+
+Nodavlat taʼlim tashkilotlari taʼlim oluvchilarni ijtimoiy himoya qilishni qonunchilikka, oʻz ustaviga va (yoki) boshqa taʼsis hujjatiga muvofiq amalga oshiradi.
+
+Davlat ijtimoiy himoya qilishni taʼminlash maqsadida kam taʼminlangan oilalardagi bolalar, jismoniy, aqliy, sensor (sezgi) yoki ruhiy nuqsonlari boʻlgan bolalar (shaxslar) uchun, shuningdek mazkur toifadagi taʼlim oluvchilarning kasbiy oʻsishi uchun shart-sharoitlar yaratadi.
+
+53-modda. Taʼlim tashkilotlarining xodimlarini ijtimoiy himoya qilish
+
+Taʼlim tashkilotlarining xodimlarini ijtimoiy himoya qilish davlat tomonidan kafolatlanadi.
+
+Taʼlim tashkilotlarining pedagog xodimlariga qisqartirilgan ish vaqti davomiyligi belgilanadi, haq toʻlanadigan har yilgi uzaytirilgan taʼtil va boshqa imtiyozlar va kafolatlar taqdim etiladi.
+
+Taʼlim tashkilotlarining pedagog va boshqa xodimlariga sanitariya-gigiyenaga oid, epidemiyaga qarshi hamda profilaktika choralari bilan amalga oshiriladigan sogʻliqni saqlash kafolatlanadi.
+
+Taʼlim tashkilotlari mehnatga haq toʻlash uchun mavjud boʻlgan mablagʻlar doirasida mustaqil ravishda ish haqiga, lavozim maoshlariga tabaqalashtirilgan ustamalar belgilashga va mehnatga haq toʻlash hamda uni ragʻbatlantirishning turli shakllarini qoʻllashga haqli.
+
+54-modda. Yetim bolalarni va ota-onasining yoki boshqa qonuniy vakillarining qaramogʻidan mahrum boʻlgan bolalarni oʻqitish va ularning toʻliq taʼminoti
+
+Yetim bolalarni va ota-onasining yoki boshqa qonuniy vakillarining qaramogʻidan mahrum boʻlgan bolalarni oʻqitish va ularning toʻliq taʼminoti Oʻzbekiston Respublikasi Davlat budjeti mablagʻlari hisobidan amalga oshiriladi.
+
+55-modda. Jismoniy, aqliy, sensor (sezgi) yoki ruhiy nuqsonlari boʻlgan bolalarni (shaxslarni) oʻqitish hamda tarbiyalash
+
+Davlat jismoniy, aqliy, sensor (sezgi) yoki ruhiy nuqsonlari boʻlgan bolalarning (shaxslarning) davlat ixtisoslashtirilgan taʼlim muassasalarida, umumiy oʻrta, oʻrta maxsus, professional taʼlim muassasalarida inklyuziv shaklda bepul umumiy oʻrta, oʻrta maxsus, professional va qoʻshimcha taʼlim olishini taʼminlaydi.
+
+Jismoniy, aqliy, sensor (sezgi) yoki ruhiy nuqsonlari boʻlgan, shuningdek uzoq vaqt davolanishga muhtoj boʻlgan bolalarni oʻqitish hamda tarbiyalash uchun davlat ixtisoslashtirilgan taʼlim muassasalari tashkil etiladi. Taʼlim oluvchilarni ushbu taʼlim muassasalariga yuborish va ulardan chetlatish ota-onasining yoki boshqa qonuniy vakillarining roziligi bilan tibbiy-psixologik-pedagogik komissiyaning xulosasiga binoan amalga oshiriladi.
+
+Davlat ixtisoslashtirilgan taʼlim muassasalarida taʼlim oluvchilar davlat taʼminotida boʻladi.
+
+56-modda. Ijtimoiy reabilitatsiyaga muhtoj boʻlgan bolalarni (shaxslarni) oʻqitish va tarbiyalash
+
+Alohida sharoitlarda oʻqitish va tarbiyalanishga muhtoj boʻlgan bolalar (shaxslar) uchun ularning taʼlim olishini, kasbiy tayyorgarligini va ijtimoiy reabilitatsiya qilinishini taʼminlaydigan ixtisoslashtirilgan oʻquv-tarbiya muassasalari tashkil etiladi.
+
+Ozodlikdan mahrum qilish tarzida jazoni ijro etish muassasalarida saqlanayotgan bolalarning (shaxslarning) taʼlim olishi, tarbiyalanishi va mustaqil taʼlim olishi uchun sharoitlar yaratiladi.
+
+8-bob. Nodavlat taʼlim tashkilotlari faoliyatini litsenziyalash, taʼlim tashkilotlarini attestatsiyadan va davlat akkreditatsiyasidan oʻtkazish. Xorijiy davlatda olingan taʼlim toʻgʻrisidagi hujjatni tan olish, taʼlim sohasidagi hujjatlarga apostil qoʻyish
+
+57-modda. Nodavlat taʼlim tashkilotlarining faoliyatini litsenziyalash
+
+Nodavlat taʼlim tashkilotlarining faoliyatini litsenziyalash “Litsenziyalash, ruxsat berish va xabardor qilish tartib-taomillari toʻgʻrisida”gi Oʻzbekiston Respublikasi Qonuni bilan tartibga solinadi.
+
+Nodavlat taʼlim tashkilotlariga litsenziya berish va qayta rasmiylashtirish, litsenziyaning amal qilishini toʻxtatib turish, shuningdek litsenziyani bekor qilish yoki uni bekor qilish toʻgʻrisidagi ariza bilan sudga murojaat qilish qonunchilikda belgilangan tartibda Oʻzbekiston Respublikasi Maktabgacha va maktab taʼlimi vazirligi hamda Oʻzbekiston Respublikasi Oliy taʼlim, fan va innovatsiyalar vazirligi tomonidan amalga oshiriladi.
+
+Litsenziyalar nomuayyan muddatga, taʼlimning quyidagi turlari uchun alohida beriladi:
+
+maktabgacha taʼlim va tarbiya (bundan oilaviy maktabgacha taʼlim mustasno);
+
+umumiy oʻrta va oʻrta maxsus taʼlim;
+
+professional taʼlim;
+
+oliy taʼlim;
+
+oliy taʼlimdan keyingi taʼlim.
+
+57¹-modda. Nodavlat taʼlim faoliyatini xabardor qilish tartibida amalga oshirish
+
+Bolalar uchun qoʻshimcha taʼlim, oilaviy nodavlat maktabgacha taʼlim tashkiloti shaklida taʼlim xizmatlarini koʻrsatishga doir faoliyat Oʻzbekiston Respublikasi Maktabgacha va maktab taʼlimi vazirligini, katta yoshdagilar uchun qoʻshimcha taʼlim, kadrlarni qayta tayyorlash va ularning malakasini oshirish shaklidagi faoliyat esa Oʻzbekiston Respublikasi Oliy taʼlim, fan va innovatsiyalar vazirligini belgilangan tartibda xabardor qilish orqali amalga oshiriladi.
+
+58-modda. Taʼlim tashkilotlarini attestatsiyadan va davlat akkreditatsiyasidan, shuningdek kompleks va maxsus davlat akkreditatsiyasidan oʻtkazish
+
+Oʻzbekiston Respublikasi hududida faoliyat koʻrsatayotgan maktabgacha, umumiy oʻrta taʼlim tashkilotlari davlat taʼlim standartlariga, davlat taʼlim talablariga hamda oʻquv dasturlariga muvofiqlik jihatidan attestatsiyadan va davlat akkreditatsiyasidan oʻtkaziladi.
+
+Oʻrta maxsus, professional, oliy taʼlimni va oliy taʼlimdan keyingi taʼlimni amalga oshiruvchi davlat va nodavlat taʼlim tashkilotlari, bitiruvchilarga davlat tomonidan tasdiqlangan namunadagi taʼlim toʻgʻrisidagi hujjatlarni beruvchi, kadrlar malakasini oshirish va ularni qayta tayyorlash boʻyicha davlat va nodavlat taʼlim tashkilotlari davlat taʼlim standartlariga, davlat taʼlim talablariga, shuningdek taʼlim dasturlariga muvofiqlik jihatidan kompleks va maxsus davlat akkreditatsiyasidan oʻtkaziladi.
+
+Attestatsiya va kompleks davlat akkreditatsiyasi ikki bosqichda — taʼlim tashkilotlari faoliyatini ichki baholash va tashqi baholash bosqichlarida oʻtkaziladi.
+
+Ichki baholash taʼlim tashkilotining oʻzini oʻzi baholashidir.
+
+Tashqi baholash ichki baholash oʻtkazilganidan keyin taʼlim sohasidagi tegishli vakolatli respublika ijro etuvchi hokimiyat organlari yoki respublikada tan olingan xalqaro akkreditatsiya tashkilotlari tomonidan amalga oshiriladigan baholashdir.
+
+Oʻzbekiston Respublikasi Prezidentining yoki Oʻzbekiston Respublikasi Vazirlar Mahkamasining qarorlari asosida tashkil etilgan, shuningdek vazirliklar, idoralar va mahalliy davlat hokimiyati vakillik organlari tomonidan tashkil etilgan taʼlim tashkilotlari tashkil etilgan kundan eʼtiboran belgilangan muddatga akkreditatsiya qilingan hisoblanadi.
+
+Maktabgacha, umumiy oʻrta taʼlimni amalga oshiruvchi nodavlat taʼlim tashkilotlari tegishli litsenziya olingan kundan eʼtiboran Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilangan muddat davomida akkreditatsiyadan oʻtgan deb hisoblanadi, bu muddat tugagach, ushbu Qonunda belgilangan tartibda attestatsiyadan va davlat akkreditatsiyasidan oʻtkaziladi.
+
+Taʼlim tashkilotlarini davlat akkreditatsiyasidan, shuningdek kompleks va maxsus davlat akkreditatsiyasidan oʻtkazish maqsadida taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari huzurida doimiy faoliyat koʻrsatuvchi davlat akkreditatsiya komissiyalari tuziladi.
+
+Taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organlari respublikada tan olinadigan xalqaro akkreditatsiya tashkilotlariga qoʻyiladigan talablarni belgilaydi va ularning reyestrlarini yuritadi.
+
+Davlat akkreditatsiyasi taʼlim tashkilotining attestatsiyasi asosida, kompleks va maxsus davlat akkreditatsiyalari esa tashqi baholash asosida amalga oshiriladi. Doimiy faoliyat koʻrsatuvchi davlat akkreditatsiya komissiyasi taʼlim tashkilotining maqomini va uning faoliyati davlat taʼlim standartlariga, davlat taʼlim talablariga va oʻquv dasturlariga muvofiqligini aniqlaydi.
+
+Taʼlim tashkilotining davlat akkreditatsiyasi, shuningdek kompleks va maxsus davlat akkreditatsiyasi toʻgʻrisida ijobiy qaror qabul qilingan taqdirda, unga davlat akkreditatsiyasi, shuningdek kompleks va maxsus akkreditatsiyalarning amal qilish muddati koʻrsatilgan holda belgilangan namunadagi sertifikat beriladi.
+
+Taʼlim tashkiloti qayta tashkil etilgan yoki tugatilgan hollarda davlat akkreditatsiyasi, shuningdek kompleks va maxsus davlat akkreditatsiyasi toʻgʻrisidagi sertifikatning amal qilishi taʼlim sohasidagi vakolatli respublika ijro etuvchi hokimiyat organining qarori bilan tugatiladi.
+
+Taʼlim toʻgʻrisidagi qonunchilik talablari yoki sertifikatda koʻrsatilgan shartlar buzilganligi aniqlangan va aniqlangan qoidabuzarliklar taʼlim tashkiloti tomonidan bartaraf etilmagan hollarda taʼlim sohasidagi tegishli vakolatli respublika ijro etuvchi hokimiyat organi tomonidan davlat akkreditatsiyasi, kompleks va maxsus davlat akkreditatsiya toʻgʻrisidagi sertifikatning amal qilishini bekor qilish haqida qaror qabul qiladi.
+
+Davlat akkreditatsiyasidan, shuningdek kompleks va maxsus davlat akkreditatsiyasidan oʻtgan taʼlim tashkilotlari Taʼlim tashkilotlarining reyestrlariga kiritiladi va bu haqdagi maʼlumotlar taʼlim sohasidagi tegishli vakolatli respublika ijro etuvchi hokimiyat organlarining rasmiy veb-saytlariga joylashtiriladi.
+
+59-modda. Taʼlim tashkilotlarining faoliyatini ichki va tashqi baholashdan oʻtkazish
+
+Taʼlim tashkilotlarining faoliyati tashqi baholashdan oʻtkazilishidan oldin ular taʼlim sohasidagi tegishli vakolatli respublika ijro etuvchi hokimiyat organi tomonidan ishlab chiqilgan attestatsiya mezonlari va koʻrsatkichlari asosida oʻz faoliyatini mustaqil ravishda ichki baholashdan oʻtkazadi.
+
+Taʼlim tashkilotlari oʻz faoliyati tashqi baholashdan oʻtkazilishidan ikki oy oldin ichki baholash natijalarini taʼlim sohasidagi tegishli vakolatli respublika ijro etuvchi hokimiyat organiga taqdim etadi.
+
+Taʼlim sohasidagi tegishli vakolatli respublika ijro etuvchi hokimiyat organi taʼlim tashkilotining faoliyatini ichki baholash yakunlarini oʻrganadi va ulardan taʼlim tashkilotining faoliyatini tashqi baholash jarayonida foydalanadi.
+
+Taʼlim tashkiloti rahbari ichki baholash natijalarining ishonchliligi uchun javobgar boʻladi.
+
+60-modda. Xorijiy davlatda olingan taʼlim toʻgʻrisidagi hujjatni tan olish
+
+Xorijiy davlatda 1992-yil 1-yanvardan keyin olingan taʼlim toʻgʻrisidagi hujjat tan olish jarayonidan oʻtkazilganidan keyin Oʻzbekiston Respublikasining butun hududida qonuniy kuchga ega hujjat sifatida tan olinadi.
+
+Xorijiy davlatda olingan taʼlim toʻgʻrisidagi hujjatni tan olish tegishli vakolatli respublika ijro etuvchi hokimiyat organi tomonidan amalga oshiriladi.
+
+Xorijiy davlatda olingan taʼlim toʻgʻrisidagi hujjatni tan olish tartibi Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi.
+
+61-modda. Taʼlim sohasidagi rasmiy hujjatlarga apostil qoʻyish
+
+Taʼlim sohasidagi rasmiy hujjatlarga apostil hujjatni tasdiqlagan shaxs imzosining haqiqiyligini, shuningdek muhr yoki shtampning bosma izi haqiqiysiga muvofiqligini tasdiqlash maqsadida qoʻyiladi.
+
+Apostilga qoʻyilgan imzo, muhr yoki shtamp qoʻshimcha ravishda tasdiqlashni talab etmaydi.
+
+Taʼlim tashkilotlari tomonidan berilgan rasmiy hujjatlarga apostil qoʻyish tegishli vakolatli respublika ijro etuvchi hokimiyat organi tomonidan amalga oshiriladi.
+
+9-bob. Taʼlimni moliyalashtirish va davlat tomonidan qoʻllab-quvvatlash
+
+62-modda. Taʼlim tashkilotlarini moliyalashtirish
+
+Davlat taʼlim muassasalarini moliyalashtirish Oʻzbekiston Respublikasining respublika budjetidan, Qoraqalpogʻiston Respublikasi budjetidan, viloyatlar va Toshkent shahar mahalliy budjetlaridan, tumanlar va shaharlar budjetlaridan, kadrlar buyurtmachilarining mablagʻlari hisobidan, shuningdek budjetdan tashqari mablagʻlar hamda qonunchilikda taqiqlanmagan boshqa manbalar hisobidan amalga oshiriladi.
+
+Nodavlat taʼlim tashkilotlarini moliyalashtirish muassislarning, kadrlar buyurtmachilarining pul va moddiy mablagʻlari hamda qonunchilikda taqiqlanmagan boshqa manbalar hisobidan amalga oshiriladi.
+
+Davlat taʼlim muassasalari ustavida belgilangan vazifalarga muvofiq pulli taʼlim xizmatlari va boshqa xizmatlar koʻrsatish, shuningdek tadbirkorlik faoliyati bilan shugʻullanish huquqiga ega.
+
+Pulli taʼlim xizmatlarini koʻrsatish davlat taʼlim muassasalarining asosiy faoliyatiga toʻsqinlik qilmasligi kerak.
+
+Davlat taʼlim muassasalarida qoʻshimcha taʼlim xizmatlari koʻrsatganlik uchun haq undirish tartibi ular tomonidan mustaqil ravishda belgilanadi.
+
+Davlat taʼlim muassasalari pulli taʼlim xizmatlari va boshqa xizmatlar koʻrsatish hamda tadbirkorlik faoliyati bilan shugʻullanish hisobidan olingan pul mablagʻlarini mustaqil ravishda tasarruf etishga haqli.
+
+Taʼlim tashkilotlarini moliyalashtirishning qoʻshimcha manbalari quyidagilardan iborat:
+
+shartnomalar asosida, shu jumladan chet ellik jismoniy yoki yuridik shaxslar bilan tuzilgan shartnomalar asosida kadrlarni tayyorlash, qayta tayyorlash va ularning malakasini oshirish hisobidan tushgan mablagʻlar;
+
+jismoniy va yuridik shaxslarning buyurtmalari asosida ilmiy-tadqiqot, oʻquv-uslubiy va qonunda taqiqlanmagan boshqa ishlarni bajarish hisobidan tushgan mablagʻlar;
+
+taʼlim tashkilotlari tomonidan ishlab chiqilgan mahsulotni, bajarilgan ishlarni va koʻrsatilgan xizmatlarni realizatsiya qilishdan olingan daromadlar;
+
+binolar, inshootlar va asbob-uskunalarni ijaraga berish hisobidan tushgan mablagʻlar;
+
+taʼlim tashkilotlarining boʻsh turgan pul mablagʻlarini bank muassasalariga depozitlarga joylashtirish hisobidan olingan pul mablagʻlari (foizlar);
+
+davlat va xoʻjalik boshqaruvi organlari, shuningdek mahalliy davlat hokimiyati organlari tomonidan ajratiladigan mablagʻlar;
+
+bank kreditlari va ssudalari;
+
+jismoniy va yuridik shaxslarning xayriya mablagʻlari.
+
+Maktabgacha, umumiy oʻrta, oʻrta maxsus taʼlimda va boshlangʻich professional taʼlimda ajratiladigan mablagʻlar summalari Oʻzbekiston Respublikasi Iqtisodiyot va moliya vazirligi tomonidan belgilanadi hamda ushbu mablagʻlar tarbiyalanuvchilar va taʼlim oluvchilarning oʻqish joyidagi taʼlim tashkilotlariga yoʻnaltiriladi.
+
+63-modda. Taʼlimni rivojlantirish jamgʻarmalari
+
+Taʼlimni rivojlantirish jamgʻarmalari qonunchilikda belgilangan tartibda davlat muassasalari hamda tashkilotlarining, yuridik va jismoniy shaxslarning, shu jumladan chet ellik yuridik va jismoniy shaxslarning badallari hamda ajratmalari, shuningdek qonunchilikda taqiqlanmagan boshqa manbalar hisobidan tashkil etilishi mumkin.
+
+64-modda. Taʼlim sohasidagi davlat-xususiy sheriklik
+
+Taʼlim sohasidagi davlat-xususiy sheriklik davlat va xususiy sheriklarning muayyan muddatga yuridik jihatdan rasmiylashtirilgan, davlat-xususiy sheriklik loyihasini amalga oshirish uchun oʻz resurslarini birlashtirishiga asoslangan hamkorlikdir.
+
+Nodavlat taʼlim tashkilotlari taʼlim sohasidagi davlat-xususiy sheriklik asosida tashkil etilishi mumkin.
+
+Taʼlim sohasidagi davlat-xususiy sheriklik “Davlat-xususiy sheriklik toʻgʻrisida”gi Oʻzbekiston Respublikasi Qonuni prinsiplari, normalari va qoidalariga muvofiq amalga oshiriladi.
+
+65-modda. Taʼlim sohasiga investitsiyalarni jalb etish
+
+Davlat taʼlim sohasini, taʼlim tashkilotlari faoliyatini rivojlantirishga, shuningdek investorlarning, shu jumladan chet ellik investorlarning ushbu sohadagi huquqlari va qonuniy manfaatlarini himoya qilishga qaratilgan investitsiyalarni jalb etish uchun qulay ijtimoiy-iqtisodiy, tashkiliy-huquqiy sharoitlar yaratilishini taʼminlaydi.
+
+66-modda. Taʼlim tashkilotlarining mol-mulki
+
+Taʼlim tashkilotlari oʻz mulkiga, operativ boshqaruvidagi mulkka ega boʻlishi kerak.
+
+Davlat taʼlim muassasalarining operativ boshqaruvida boʻlgan obyektlarning (binolar, inshootlar, qurilayotgan binolar va inshootlarning, oʻquv, ishlab chiqarish va ijtimoiy infratuzilmalarning, taʼlim oluvchilar vaqtincha turar joy binolarining, klinik bazalar va boshqa koʻchmas mulk obyektlarining, shu jumladan taʼlim kampuslariga kiradigan mulk obyektlarining) xususiylashtirilishiga yoʻl qoʻyilmaydi.
+
+Taʼlim tashkilotlari qayta tashkil etilgan hollarda ularning mol-mulki yangi tashkil etilgan taʼlim tashkilotiga huquqiy vorislik asosida oʻtkaziladi.
+
+Taʼlim tashkilotlari tugatilganda ularga tegishli mol-mulk kreditorlarning talablari qanoatlantirilgandan soʻng, agar qonunchilikda boshqacha qoida nazarda tutilmagan boʻlsa, muassislarga (ishtirokchilarga) qaytariladi.
+
+10-bob. Taʼlim sohasidagi xalqaro hamkorlik
+
+67-modda. Taʼlim tashkilotlarining xalqaro hamkorligi
+
+Taʼlim tashkilotlari quyidagilar vositasida tegishli xorijiy mamlakatlarning taʼlim muassasalari va tashkilotlari bilan xalqaro hamkorlikni amalga oshiradi:
+
+taʼlim muammolari yuzasidan ilmiy-texnik hamkorlikni rivojlantirish;
+
+qoʻshma fakultetlar, oʻquv markazlari va ilmiy laboratoriyalar tashkil etish;
+
+xalqaro darajadagi birgalikdagi taʼlim hamda ilmiy-tadqiqot loyihalari va dasturlarini tayyorlash;
+
+hamkorlikda fundamental hamda amaliy ilmiy-tadqiqot loyihalarini amalga oshirish;
+
+ilmiy-amaliy seminarlar, konferensiyalar va simpoziumlar oʻtkazish;
+
+talabalar, magistrlar, doktorantlar, oʻqituvchilar va ilmiy xodimlar almashinishini amalga oshirish;
+
+ikki tomonlama diplomlar (Double Diploma) dasturlarini joriy etish;
+
+qonunchilikka muvofiq boshqa tadbirlar.
+
+Taʼlim tashkilotlari qonunchilikka muvofiq xorijiy davlatlarning taʼlim muassasalari va tashkilotlari bilan hamkorlikda kadrlar tayyorlashni amalga oshirishi mumkin.
+
+68-modda. Taʼlim sohasidagi xalqaro hamkorlik
+
+Taʼlim sohasidagi xalqaro hamkorlik Oʻzbekiston Respublikasining xalqaro shartnomalari va qonunchilikka muvofiq amalga oshiriladi.
+
+Taʼlim sohasidagi vakolatli davlat boshqaruvi organlari:
+
+xorijiy davlatlarning tegishli vakolatli organlari, taʼlim muassasalari bilan hamkorlik qiladi;
+
+Oʻzbekiston Respublikasida doimiy yashovchi fuqarolarni xorijiy davlatlarning taʼlim muassasalariga oʻqish uchun yuboradi;
+
+pedagog xodimlar va taʼlim oluvchilar almashinuvini amalga oshiradi;
+
+rahbar hamda pedagog xodimlarning xorijiy davlatlarda tayyorlash, qayta tayyorlash va malakasini oshirishni tashkil etadi;
+
+oʻz xodimlari hamda mutaxassislarini xalqaro konferensiyalarga va stajirovkalarga yuborish, ularning xalqaro loyihalar hamda ilmiy tadqiqotlarda ishtirok etishini qoʻllab-quvvatlaydi.
+
+Taʼlim sohasidagi vakolatli davlat boshqaruvi organlari qonunchilikka muvofiq taʼlim sohasidagi xalqaro hamkorlikni rivojlantirish boʻyicha boshqa tadbirlarni ham amalga oshirishi mumkin.
+
+69-modda. Xorijda taʼlim olish
+
+Oʻzbekiston Respublikasida doimiy yashovchi fuqarolar Oʻzbekiston Respublikasining xalqaro shartnomalariga muvofiq yoki yakka tartibda xorijda taʼlim olish huquqiga ega.
+
+11-bob. Yakunlovchi qoidalar
+
+70-modda. Nizolarni hal etish
+
+Taʼlim sohasidagi nizolar qonunchilikda belgilangan tartibda hal etiladi.
+
+71-modda. Taʼlim toʻgʻrisidagi qonunchilikni buzganlik uchun javobgarlik
+
+Taʼlim toʻgʻrisidagi qonunchilikni buzganlikda aybdor shaxslar belgilangan tartibda javobgar boʻladi.
+
+72-modda. Oʻzbekiston Respublikasining ayrim qonun hujjatlarini oʻz kuchini yoʻqotgan deb topish
+
+Quyidagilar oʻz kuchini yoʻqotgan deb hisoblansin:
+
+1) Oʻzbekiston Respublikasining 1997-yil 29-avgustda qabul qilingan “Kadrlar tayyorlash milliy dasturi toʻgʻrisida”gi 463-I-sonli Qonuni (Oʻzbekiston Respublikasi Oliy Majlisining Axborotnomasi, 1997-yil, № 11-12, 295-modda);
+
+2) Oʻzbekiston Respublikasining 1997-yil 29-avgustda qabul qilingan “Taʼlim toʻgʻrisida”gi 464-I-sonli Qonuni (Oʻzbekiston Respublikasi Oliy Majlisining Axborotnomasi, 1997-yil, № 9, 225-modda);
+
+3) Oʻzbekiston Respublikasi Oliy Majlisining 1997-yil 29-avgustdagi 465-I-sonli “Oʻzbekiston Respublikasining “Taʼlim toʻgʻrisida”gi Qonuni kuchga kirish tartibi toʻgʻrisida”gi Qarori (Oʻzbekiston Respublikasi Oliy Majlisining Axborotnomasi, 1997-yil, № 9, 226-modda);
+
+4) Oʻzbekiston Respublikasining 2007-yil 9-aprelda qabul qilingan “Kadrlar tayyorlash milliy dasturiga oʻzgartish kiritish toʻgʻrisida”gi OʻRQ-87-sonli Qonunining (Oʻzbekiston Respublikasi Oliy Majlisi palatalarining Axborotnomasi, 2007-yil, № 4, 160-modda) 1-moddasi;
+
+5) Oʻzbekiston Respublikasining 2013-yil 7-oktabrda qabul qilingan “Oʻzbekiston Respublikasining ayrim qonun hujjatlariga oʻzgartish va qoʻshimchalar kiritish, shuningdek ayrim qonun hujjatlarini oʻz kuchini yoʻqotgan deb topish toʻgʻrisida”gi OʻRQ-355-sonli Qonunining (Oʻzbekiston Respublikasi Oliy Majlisi palatalarining Axborotnomasi, 2013-yil, № 10, 263-modda) 15 va 16-moddalari;
+
+6) Oʻzbekiston Respublikasining 2018-yil 3-yanvarda qabul qilingan “Ayrim davlat organlari faoliyati takomillashtirilishi, shuningdek fuqarolarning huquqlari va erkinliklarini himoya qilish kafolatlarini taʼminlashga doir qoʻshimcha chora-tadbirlar qabul qilinishi munosabati bilan Oʻzbekiston Respublikasining ayrim qonun hujjatlariga oʻzgartish va qoʻshimchalar kiritish toʻgʻrisida”gi OʻRQ-456-sonli Qonunining (Oʻzbekiston Respublikasi Oliy Majlisi palatalarining Axborotnomasi, 2018-yil, № 1, 1-modda) 14 va 15-moddalari;
+
+7) Oʻzbekiston Respublikasining 2018-yil 18-aprelda qabul qilingan “Oʻzbekiston Respublikasining ayrim qonun hujjatlariga oʻzgartish va qoʻshimchalar kiritish toʻgʻrisida”gi OʻRQ-476-sonli Qonunining (Oʻzbekiston Respublikasi Oliy Majlisi palatalarining Axborotnomasi, 2018-yil, № 4, 224-modda) 26-moddasi.
+
+73-modda. Ushbu Qonunning ijrosini, yetkazilishini, mohiyati va ahamiyati tushuntirilishini taʼminlash
+
+Oʻzbekiston Respublikasi Adliya vazirligi, Oʻzbekiston Respublikasi Oliy va oʻrta maxsus taʼlim vazirligi, Oʻzbekiston Respublikasi Xalq taʼlimi vazirligi, Oʻzbekiston Respublikasi Maktabgacha taʼlim vazirligi hamda boshqa manfaatdor vazirliklar, idoralar va tashkilotlar ushbu Qonunning ijrosini, ijrochilarga yetkazilishini hamda mohiyati va ahamiyati aholi oʻrtasida tushuntirilishini taʼminlasin.
+
+74-modda. Qonunchilikni ushbu Qonunga muvofiqlashtirish
+
+Oʻzbekiston Respublikasi Vazirlar Mahkamasi:
+
+hukumat qarorlarini ushbu Qonunga muvofiqlashtirsin;
+
+davlat boshqaruvi organlari ushbu Qonunga zid boʻlgan oʻz normativ-huquqiy hujjatlarini qayta koʻrib chiqishlari va bekor qilishlarini taʼminlasin.
+
+75-modda. Ushbu Qonunning kuchga kirishi
+
+Ushbu Qonun rasmiy eʼlon qilingan kundan eʼtiboran kuchga kiradi.
+
+Oʻzbekiston Respublikasining Prezidenti Sh. MIRZIYOYEV. Toshkent sh., 2020-yil 23-sentabr, OʻRQ-637-son.
